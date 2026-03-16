@@ -9,8 +9,11 @@
 [![ECharts](https://img.shields.io/badge/ECharts-5-red?logo=apache-echarts)](https://echarts.apache.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38bdf8?logo=tailwindcss)](https://tailwindcss.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://china-ai-landscape.pages.dev)
 
 **一站式可视化仪表盘，实时呈现中国人工智能产业版图**
+
+🌐 **在线体验**: [china-ai-landscape.pages.dev](https://china-ai-landscape.pages.dev) (国内) | [china-ai-landscape.vercel.app](https://china-ai-landscape.vercel.app) (国际)
 
 `76 个项目` &bull; `18 条赛道` &bull; `4 大层级` &bull; `13 个季度时间轴`
 
