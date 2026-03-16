@@ -1,0 +1,146 @@
+{
+  "snapshots": [
+    {
+      "date": "2026-03-16",
+      "data": {
+        "cambricon": {
+          "ticker": "688256.SS",
+          "price": 1089.97,
+          "currency": "CNY",
+          "weekChangePercent": -4.98,
+          "monthChangePercent": 1.72
+        },
+        "moore_threads": {
+          "ticker": "688396.SS",
+          "price": 49.99,
+          "currency": "CNY",
+          "weekChangePercent": -2.67,
+          "monthChangePercent": -14.85
+        },
+        "iflytek": {
+          "ticker": "002230.SZ",
+          "price": 52.13,
+          "currency": "CNY",
+          "weekChangePercent": -2.92,
+          "monthChangePercent": -8.8
+        },
+        "meitu": {
+          "ticker": "1357.HK",
+          "price": 5.22,
+          "currency": "HKD",
+          "weekChangePercent": -3.15,
+          "monthChangePercent": -16.88
+        },
+        "ubtech": {
+          "ticker": "9880.HK",
+          "price": 104.8,
+          "currency": "HKD",
+          "weekChangePercent": -5.84,
+          "monthChangePercent": -24.06
+        },
+        "minimax": {
+          "ticker": "9922.HK",
+          "price": 1.91,
+          "currency": "HKD",
+          "weekChangePercent": 0.53,
+          "monthChangePercent": -14.73
+        },
+        "horizon": {
+          "ticker": "9660.HK",
+          "price": 7.66,
+          "currency": "HKD",
+          "weekChangePercent": 0.66,
+          "monthChangePercent": -14.89
+        },
+        "sensetime": {
+          "ticker": "0020.HK",
+          "price": 2.05,
+          "currency": "HKD",
+          "weekChangePercent": -12.77,
+          "monthChangePercent": -22.35
+        },
+        "pony": {
+          "ticker": "PONY",
+          "price": 11.44,
+          "currency": "USD",
+          "weekChangePercent": -13.73,
+          "monthChangePercent": -16.92
+        },
+        "weride": {
+          "ticker": "WRD",
+          "price": 6.65,
+          "currency": "USD",
+          "weekChangePercent": -1.63,
+          "monthChangePercent": -13.41
+        },
+        "hesai": {
+          "ticker": "HSAI",
+          "price": 24.04,
+          "currency": "USD",
+          "weekChangePercent": -4.75,
+          "monthChangePercent": -10.2
+        },
+        "kling": {
+          "ticker": "1024.HK",
+          "price": 60.05,
+          "currency": "HKD",
+          "weekChangePercent": -2.2,
+          "monthChangePercent": -12.46
+        },
+        "wenxin": {
+          "ticker": "BIDU",
+          "price": 124.07,
+          "currency": "USD",
+          "weekChangePercent": -1.14,
+          "monthChangePercent": -9.66
+        },
+        "zhipu": {
+          "ticker": "2162.HK",
+          "price": 54.2,
+          "currency": "HKD",
+          "weekChangePercent": -0.91,
+          "monthChangePercent": -0.18
+        }
+      }
+    }
+  ],
+  "lastUpdated": "2026-03-16",
+  "anomalies": [
+    {
+      "projectId": "ubtech",
+      "type": "stock_month_drop",
+      "metric": "stock_month",
+      "ticker": "9880.HK",
+      "price": 104.8,
+      "currency": "HKD",
+      "changePercent": -24.06
+    },
+    {
+      "projectId": "sensetime",
+      "type": "stock_drop",
+      "metric": "stock_week",
+      "ticker": "0020.HK",
+      "price": 2.05,
+      "currency": "HKD",
+      "changePercent": -12.77
+    },
+    {
+      "projectId": "sensetime",
+      "type": "stock_month_drop",
+      "metric": "stock_month",
+      "ticker": "0020.HK",
+      "price": 2.05,
+      "currency": "HKD",
+      "changePercent": -22.35
+    },
+    {
+      "projectId": "pony",
+      "type": "stock_drop",
+      "metric": "stock_week",
+      "ticker": "PONY",
+      "price": 11.44,
+      "currency": "USD",
+      "changePercent": -13.73
+    }
+  ]
+}

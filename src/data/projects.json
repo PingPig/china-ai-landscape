@@ -1,0 +1,3034 @@
+[
+  {
+    "id": "deepseek",
+    "name": "DeepSeek",
+    "shortDesc": "GitHub 398K Stars, R1推理模型2025年1月开源引发美股震动, V3训练成本仅557万美元, MAU约1.25亿",
+    "category": "model_open",
+    "layer": "model",
+    "founded": "2023",
+    "funding": "$7亿(PitchBook)/幻方自有资金",
+    "fundingRound": "A轮",
+    "products": [
+      "DeepSeek-R1",
+      "DeepSeek-V3",
+      "DeepSeek-Coder"
+    ],
+    "githubStars": 102165,
+    "baiduIndex": 95,
+    "url": "https://www.deepseek.com",
+    "tags": [
+      "开源",
+      "推理模型",
+      "MoE"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 3,
+      "2023Q2": 5,
+      "2023Q3": 8,
+      "2023Q4": 12,
+      "2024Q1": 26,
+      "2024Q2": 28,
+      "2024Q3": 40,
+      "2024Q4": 63,
+      "2025Q1": 100,
+      "2025Q2": 88,
+      "2025Q3": 85,
+      "2025Q4": 82,
+      "2026Q1": 100
+    },
+    "dataSource": {
+      "githubStars": "GitHub API 2026-03-16",
+      "funding": "公开报道/IPO招股书/PitchBook 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "qwen",
+    "name": "通义千问 Qwen",
+    "shortDesc": "Qwen3系列GitHub 27K Stars，覆盖0.6B-235B参数，阿里云百炼平台核心模型",
+    "category": "model_open",
+    "layer": "model",
+    "founded": "2023",
+    "funding": "阿里巴巴集团",
+    "fundingRound": "已上市",
+    "products": [
+      "Qwen2.5",
+      "Qwen-VL",
+      "Qwen-Audio",
+      "QwQ"
+    ],
+    "githubStars": 20729,
+    "baiduIndex": 70,
+    "url": "https://qwen.readthedocs.io",
+    "tags": [
+      "开源",
+      "多模态",
+      "阿里"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 8,
+      "2023Q2": 26,
+      "2023Q3": 28,
+      "2023Q4": 46,
+      "2024Q1": 48,
+      "2024Q2": 52,
+      "2024Q3": 66,
+      "2024Q4": 62,
+      "2025Q1": 70,
+      "2025Q2": 79,
+      "2025Q3": 80,
+      "2025Q4": 89,
+      "2026Q1": 96
+    },
+    "dataSource": {
+      "githubStars": "GitHub API 2026-03-16",
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算（见METHODOLOGY.md）"
+    }
+  },
+  {
+    "id": "zhipu",
+    "name": "智谱AI",
+    "shortDesc": "2026年1月港股上市(Z.ai), 市值超520亿港元, 1.2万企业客户, 4500万+开发者, 2024年营收$4530万",
+    "category": "model_closed",
+    "layer": "model",
+    "founded": "2019",
+    "funding": "IPO融资$5.58亿, 累计超$15亿",
+    "fundingRound": "已上市",
+    "products": [
+      "GLM-4",
+      "CogView",
+      "CogVideo",
+      "AutoGLM"
+    ],
+    "baiduIndex": 55,
+    "url": "https://www.zhipuai.cn",
+    "tags": [
+      "闭源",
+      "多模态",
+      "清华"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 22,
+      "2023Q2": 28,
+      "2023Q3": 43,
+      "2023Q4": 49,
+      "2024Q1": 50,
+      "2024Q2": 52,
+      "2024Q3": 55,
+      "2024Q4": 58,
+      "2025Q1": 60,
+      "2025Q2": 66,
+      "2025Q3": 65,
+      "2025Q4": 70,
+      "2026Q1": 72
+    },
+    "githubStars": 4800,
+    "dataSource": {
+      "githubStars": "GitHub API 2026-03-16",
+      "funding": "公开报道/IPO招股书/PitchBook 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "baichuan",
+    "name": "百川智能",
+    "shortDesc": "前搜狗CEO王小川创立, 2025年3月转型AI医疗, 发布Baichuan-M3医疗大模型",
+    "category": "model_closed",
+    "layer": "model",
+    "founded": "2023",
+    "funding": "累计超$10.4亿",
+    "fundingRound": "A轮",
+    "products": [
+      "Baichuan-4",
+      "百小应"
+    ],
+    "baiduIndex": 35,
+    "url": "https://www.baichuan-ai.com",
+    "tags": [
+      "闭源",
+      "通用大模型"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 2,
+      "2023Q2": 32,
+      "2023Q3": 46,
+      "2023Q4": 42,
+      "2024Q1": 40,
+      "2024Q2": 38,
+      "2024Q3": 36,
+      "2024Q4": 35,
+      "2025Q1": 35,
+      "2025Q2": 35,
+      "2025Q3": 35,
+      "2025Q4": 35,
+      "2026Q1": 35
+    },
+    "githubStars": 4116,
+    "dataSource": {
+      "githubStars": "GitHub API 2026-03-16",
+      "funding": "公开报道/IPO招股书/PitchBook 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "moonshot",
+    "name": "月之暗面 Kimi",
+    "shortDesc": "Kimi Chat 2024年爆火, 2026年3月估值达$180亿, 中国最快独角兽(成立2年), K2.5上线20天收入超2025全年",
+    "category": "model_closed",
+    "layer": "model",
+    "founded": "2023",
+    "funding": "累计超$25亿, 估值$180亿",
+    "fundingRound": "C轮",
+    "products": [
+      "Kimi Chat",
+      "Kimi+"
+    ],
+    "baiduIndex": 75,
+    "url": "https://kimi.moonshot.cn",
+    "tags": [
+      "闭源",
+      "长上下文",
+      "C端"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 2,
+      "2023Q2": 5,
+      "2023Q3": 8,
+      "2023Q4": 12,
+      "2024Q1": 56,
+      "2024Q2": 62,
+      "2024Q3": 68,
+      "2024Q4": 65,
+      "2025Q1": 60,
+      "2025Q2": 62,
+      "2025Q3": 55,
+      "2025Q4": 65,
+      "2026Q1": 78
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开报道/IPO招股书/PitchBook 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "minimax",
+    "name": "MiniMax",
+    "shortDesc": "2026年1月港股上市, 市值超$490亿(超越百度), 海螺AI 70%收入来自海外, TTM收入$7900万",
+    "category": "model_closed",
+    "layer": "model",
+    "founded": "2021",
+    "funding": "IPO融资$6.19亿, 累计超$14亿",
+    "fundingRound": "已上市",
+    "products": [
+      "海螺AI",
+      "Talkie",
+      "MiniMax-01"
+    ],
+    "baiduIndex": 40,
+    "url": "https://www.minimaxi.com",
+    "tags": [
+      "闭源",
+      "多模态",
+      "社交AI"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 2,
+      "2023Q2": 5,
+      "2023Q3": 8,
+      "2023Q4": 12,
+      "2024Q1": 18,
+      "2024Q2": 25,
+      "2024Q3": 32,
+      "2024Q4": 40,
+      "2025Q1": 50,
+      "2025Q2": 55,
+      "2025Q3": 60,
+      "2025Q4": 68,
+      "2026Q1": 75
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开报道/IPO招股书/PitchBook 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "doubao",
+    "name": "豆包",
+    "shortDesc": "2025年12月DAU突破1亿(中国首个), MAU 2.27亿, 火山引擎日处理63万亿tokens, 占中国公有云LLM市场49.2%",
+    "category": "app_office",
+    "layer": "application",
+    "founded": "2024",
+    "funding": "字节跳动",
+    "fundingRound": "已上市",
+    "products": [
+      "豆包APP",
+      "豆包MarsCode",
+      "即梦AI"
+    ],
+    "baiduIndex": 88,
+    "url": "https://www.doubao.com",
+    "tags": [
+      "字节",
+      "AI助手",
+      "C端"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 0,
+      "2023Q2": 0,
+      "2023Q3": 5,
+      "2023Q4": 10,
+      "2024Q1": 15,
+      "2024Q2": 25,
+      "2024Q3": 58,
+      "2024Q4": 75,
+      "2025Q1": 85,
+      "2025Q2": 90,
+      "2025Q3": 96,
+      "2025Q4": 95,
+      "2026Q1": 100
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开报道/IPO招股书/PitchBook 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "wenxin",
+    "name": "文心一言",
+    "shortDesc": "2023年3月发布，国内最早的大模型对话产品之一，百度核心AI战略产品",
+    "category": "app_office",
+    "layer": "application",
+    "founded": "2023",
+    "funding": "百度",
+    "fundingRound": "已上市",
+    "products": [
+      "文心一言",
+      "文心大模型4.0"
+    ],
+    "baiduIndex": 60,
+    "url": "https://yiyan.baidu.com",
+    "tags": [
+      "百度",
+      "AI助手",
+      "搜索"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 53,
+      "2023Q2": 50,
+      "2023Q3": 63,
+      "2023Q4": 58,
+      "2024Q1": 60,
+      "2024Q2": 58,
+      "2024Q3": 56,
+      "2024Q4": 55,
+      "2025Q1": 55,
+      "2025Q2": 55,
+      "2025Q3": 55,
+      "2025Q4": 58,
+      "2026Q1": 58
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算（见METHODOLOGY.md）"
+    }
+  },
+  {
+    "id": "tongyi",
+    "name": "通义",
+    "shortDesc": "阿里通义系列AI应用入口，集成对话、创作、办公等功能",
+    "category": "app_office",
+    "layer": "application",
+    "founded": "2023",
+    "funding": "阿里巴巴",
+    "fundingRound": "已上市",
+    "products": [
+      "通义千问APP",
+      "通义灵码",
+      "通义听悟"
+    ],
+    "baiduIndex": 55,
+    "url": "https://tongyi.aliyun.com",
+    "tags": [
+      "阿里",
+      "办公",
+      "AI助手"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 1,
+      "2023Q2": 10,
+      "2023Q3": 3,
+      "2023Q4": 4,
+      "2024Q1": 11,
+      "2024Q2": 13,
+      "2024Q3": 15,
+      "2024Q4": 17,
+      "2025Q1": 29,
+      "2025Q2": 32,
+      "2025Q3": 35,
+      "2025Q4": 38,
+      "2026Q1": 55
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算（见METHODOLOGY.md）"
+    }
+  },
+  {
+    "id": "cursor_cn",
+    "name": "通义灵码",
+    "shortDesc": "通义灵码——阿里AI编程助手，VS Code/JetBrains插件，日活开发者超百万",
+    "category": "app_coding",
+    "layer": "application",
+    "founded": "2023",
+    "funding": "阿里巴巴",
+    "fundingRound": "已上市",
+    "products": [
+      "通义灵码插件"
+    ],
+    "baiduIndex": 45,
+    "url": "https://lingma.aliyun.com",
+    "tags": [
+      "AI编程",
+      "代码补全",
+      "阿里"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 1,
+      "2023Q2": 2,
+      "2023Q3": 3,
+      "2023Q4": 4,
+      "2024Q1": 9,
+      "2024Q2": 11,
+      "2024Q3": 13,
+      "2024Q4": 15,
+      "2025Q1": 25,
+      "2025Q2": 28,
+      "2025Q3": 34,
+      "2025Q4": 33,
+      "2026Q1": 48
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算（见METHODOLOGY.md）"
+    }
+  },
+  {
+    "id": "marscode",
+    "name": "MarsCode",
+    "shortDesc": "字节跳动AI编程助手，支持多语言智能补全和对话式编程",
+    "category": "app_coding",
+    "layer": "application",
+    "founded": "2024",
+    "funding": "字节跳动",
+    "fundingRound": "已上市",
+    "products": [
+      "MarsCode IDE",
+      "MarsCode插件"
+    ],
+    "baiduIndex": 38,
+    "url": "https://www.marscode.cn",
+    "tags": [
+      "AI编程",
+      "云IDE",
+      "字节"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 0,
+      "2023Q2": 0,
+      "2023Q3": 0,
+      "2023Q4": 0,
+      "2024Q1": 4,
+      "2024Q2": 5,
+      "2024Q3": 6,
+      "2024Q4": 6,
+      "2025Q1": 15,
+      "2025Q2": 16,
+      "2025Q3": 18,
+      "2025Q4": 19,
+      "2026Q1": 32
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算（见METHODOLOGY.md）"
+    }
+  },
+  {
+    "id": "kling",
+    "name": "可灵AI",
+    "shortDesc": "2025年全年收入约$1.4亿, 2025年12月ARR达$2.4亿, MAU 1200万, 累计生成6亿+视频, 40+国家下载榜首",
+    "category": "app_video",
+    "layer": "application",
+    "founded": "2024",
+    "funding": "快手",
+    "fundingRound": "已上市",
+    "products": [
+      "可灵AI 1.6",
+      "可灵视频生成"
+    ],
+    "baiduIndex": 72,
+    "url": "https://kling.kuaishou.com",
+    "tags": [
+      "AI视频",
+      "视频生成",
+      "快手"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 0,
+      "2023Q2": 0,
+      "2023Q3": 0,
+      "2023Q4": 0,
+      "2024Q1": 5,
+      "2024Q2": 63,
+      "2024Q3": 60,
+      "2024Q4": 62,
+      "2025Q1": 65,
+      "2025Q2": 68,
+      "2025Q3": 74,
+      "2025Q4": 72,
+      "2026Q1": 72
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开报道/IPO招股书/PitchBook 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "jimeng",
+    "name": "即梦AI",
+    "shortDesc": "字节跳动AI图像/视频生成工具，集成于剪映等产品",
+    "category": "app_design",
+    "layer": "application",
+    "founded": "2024",
+    "funding": "字节跳动",
+    "fundingRound": "已上市",
+    "products": [
+      "即梦AI",
+      "图像生成",
+      "视频生成"
+    ],
+    "baiduIndex": 55,
+    "url": "https://jimeng.jianying.com",
+    "tags": [
+      "AI设计",
+      "图像生成",
+      "字节"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 0,
+      "2023Q2": 0,
+      "2023Q3": 0,
+      "2023Q4": 0,
+      "2024Q1": 4,
+      "2024Q2": 5,
+      "2024Q3": 6,
+      "2024Q4": 7,
+      "2025Q1": 16,
+      "2025Q2": 17,
+      "2025Q3": 19,
+      "2025Q4": 21,
+      "2026Q1": 34
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算（见METHODOLOGY.md）"
+    }
+  },
+  {
+    "id": "manus",
+    "name": "Manus",
+    "shortDesc": "2025年3月发布的通用AI Agent，能自主完成复杂任务，获数亿元A轮融资",
+    "category": "app_agent",
+    "layer": "application",
+    "founded": "2024",
+    "funding": "数亿元",
+    "fundingRound": "A轮",
+    "products": [
+      "Manus Agent"
+    ],
+    "baiduIndex": 65,
+    "url": "https://manus.im",
+    "tags": [
+      "AI Agent",
+      "自主AI",
+      "通用"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 0,
+      "2023Q2": 0,
+      "2023Q3": 0,
+      "2023Q4": 0,
+      "2024Q1": 0,
+      "2024Q2": 0,
+      "2024Q3": 0,
+      "2024Q4": 0,
+      "2025Q1": 53,
+      "2025Q2": 42,
+      "2025Q3": 42,
+      "2025Q4": 45,
+      "2026Q1": 45
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算（见METHODOLOGY.md）"
+    }
+  },
+  {
+    "id": "tiangong",
+    "name": "天工AI搜索",
+    "shortDesc": "昆仑万维旗下AI搜索产品，对标Perplexity，整合搜索与大模型对话",
+    "category": "app_search",
+    "layer": "application",
+    "founded": "2023",
+    "funding": "昆仑万维",
+    "fundingRound": "已上市",
+    "products": [
+      "天工AI搜索",
+      "天工大模型"
+    ],
+    "baiduIndex": 30,
+    "url": "https://www.tiangong.cn",
+    "tags": [
+      "AI搜索",
+      "昆仑万维"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 1,
+      "2023Q2": 1,
+      "2023Q3": 2,
+      "2023Q4": 3,
+      "2024Q1": 7,
+      "2024Q2": 8,
+      "2024Q3": 9,
+      "2024Q4": 11,
+      "2025Q1": 18,
+      "2025Q2": 20,
+      "2025Q3": 22,
+      "2025Q4": 24,
+      "2026Q1": 35
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算（见METHODOLOGY.md）"
+    }
+  },
+  {
+    "id": "huawei_ascend",
+    "name": "华为昇腾",
+    "shortDesc": "华为昇腾910C芯片2024年量产，国产AI算力核心，覆盖训练+推理场景",
+    "category": "infra_chip",
+    "layer": "infrastructure",
+    "founded": "2018",
+    "funding": "华为",
+    "fundingRound": "已上市",
+    "products": [
+      "昇腾910B",
+      "昇腾910C",
+      "CANN"
+    ],
+    "baiduIndex": 50,
+    "url": "https://www.hiascend.com",
+    "tags": [
+      "AI芯片",
+      "国产替代",
+      "华为"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 35,
+      "2023Q2": 38,
+      "2023Q3": 42,
+      "2023Q4": 45,
+      "2024Q1": 50,
+      "2024Q2": 55,
+      "2024Q3": 68,
+      "2024Q4": 65,
+      "2025Q1": 72,
+      "2025Q2": 75,
+      "2025Q3": 78,
+      "2025Q4": 80,
+      "2026Q1": 88
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算（见METHODOLOGY.md）"
+    }
+  },
+  {
+    "id": "cambricon",
+    "name": "寒武纪",
+    "shortDesc": "2025年营收64.97亿元(+453%), 首次全年盈利20.59亿元, 市值超$660亿, 2026年计划芯片产量翻3倍",
+    "category": "infra_chip",
+    "layer": "infrastructure",
+    "founded": "2016",
+    "funding": "已上市(科创板688256)",
+    "fundingRound": "已上市",
+    "products": [
+      "思元590",
+      "思元370"
+    ],
+    "baiduIndex": 35,
+    "url": "https://www.cambricon.com",
+    "tags": [
+      "AI芯片",
+      "上市公司"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 15,
+      "2023Q2": 18,
+      "2023Q3": 20,
+      "2023Q4": 22,
+      "2024Q1": 25,
+      "2024Q2": 28,
+      "2024Q3": 30,
+      "2024Q4": 35,
+      "2025Q1": 45,
+      "2025Q2": 55,
+      "2025Q3": 62,
+      "2025Q4": 68,
+      "2026Q1": 70
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开报道/IPO招股书/PitchBook 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "unitree",
+    "name": "宇树科技",
+    "shortDesc": "2024年营收超10亿元, Go1累计出货5万+台, 全球消费级四足60%市场份额, 目标$70亿估值IPO",
+    "category": "embodied_robot",
+    "layer": "embodied",
+    "founded": "2016",
+    "funding": "C轮约7亿元, 估值$17亿",
+    "fundingRound": "C轮",
+    "products": [
+      "Unitree H1",
+      "Unitree G1",
+      "Go2"
+    ],
+    "baiduIndex": 58,
+    "url": "https://www.unitree.com",
+    "tags": [
+      "人形机器人",
+      "四足机器人"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 5,
+      "2023Q2": 8,
+      "2023Q3": 10,
+      "2023Q4": 12,
+      "2024Q1": 15,
+      "2024Q2": 18,
+      "2024Q3": 22,
+      "2024Q4": 28,
+      "2025Q1": 63,
+      "2025Q2": 52,
+      "2025Q3": 52,
+      "2025Q4": 55,
+      "2026Q1": 59
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开报道/IPO招股书/PitchBook 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "pony",
+    "name": "小马智行",
+    "shortDesc": "纳斯达克+港股双重上市, Q3 2025营收$2540万(+72% YoY), 深圳Robotaxi实现单位经济效益盈亏平衡",
+    "category": "embodied_auto",
+    "layer": "embodied",
+    "founded": "2016",
+    "funding": "累计VC $11.9亿+港股IPO $8亿",
+    "fundingRound": "已上市",
+    "products": [
+      "PonyPilot+",
+      "Robotaxi"
+    ],
+    "baiduIndex": 32,
+    "url": "https://www.pony.ai",
+    "tags": [
+      "自动驾驶",
+      "Robotaxi",
+      "上市"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 4,
+      "2023Q2": 8,
+      "2023Q3": 13,
+      "2023Q4": 17,
+      "2024Q1": 21,
+      "2024Q2": 25,
+      "2024Q3": 30,
+      "2024Q4": 38,
+      "2025Q1": 38,
+      "2025Q2": 42,
+      "2025Q3": 47,
+      "2025Q4": 51,
+      "2026Q1": 55
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开报道/IPO招股书/PitchBook 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "stepfun",
+    "name": "阶跃星辰",
+    "shortDesc": "前微软副总裁姜大昕创立, 2026年1月B+轮融资$7.17亿, OPPO合作2000万DAU, 目标年营收10亿元",
+    "category": "model_closed",
+    "layer": "model",
+    "founded": "2023",
+    "funding": "B+轮融资超50亿元($7.17亿)",
+    "fundingRound": "B轮",
+    "products": [
+      "Step-2",
+      "跃问APP"
+    ],
+    "baiduIndex": 30,
+    "url": "https://www.stepfun.com",
+    "tags": [
+      "闭源",
+      "多模态",
+      "视频理解"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 1,
+      "2023Q2": 2,
+      "2023Q3": 3,
+      "2023Q4": 4,
+      "2024Q1": 9,
+      "2024Q2": 11,
+      "2024Q3": 13,
+      "2024Q4": 15,
+      "2025Q1": 25,
+      "2025Q2": 28,
+      "2025Q3": 30,
+      "2025Q4": 33,
+      "2026Q1": 48
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开报道/IPO招股书/PitchBook 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "ernie",
+    "name": "文心大模型",
+    "shortDesc": "百度文心大模型底座，ERNIE 4.0，支撑百度全线AI产品",
+    "category": "model_closed",
+    "layer": "model",
+    "founded": "2019",
+    "funding": "百度",
+    "fundingRound": "已上市",
+    "products": [
+      "ERNIE 4.0",
+      "ERNIE Speed",
+      "ERNIE Lite"
+    ],
+    "baiduIndex": 48,
+    "url": "https://wenxin.baidu.com",
+    "tags": [
+      "闭源",
+      "百度",
+      "基座模型"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 4,
+      "2023Q2": 8,
+      "2023Q3": 12,
+      "2023Q4": 16,
+      "2024Q1": 20,
+      "2024Q2": 24,
+      "2024Q3": 28,
+      "2024Q4": 32,
+      "2025Q1": 36,
+      "2025Q2": 40,
+      "2025Q3": 44,
+      "2025Q4": 48,
+      "2026Q1": 52
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算（见METHODOLOGY.md）"
+    }
+  },
+  {
+    "id": "sensetime",
+    "name": "商汤科技",
+    "shortDesc": "商汤科技，2021年港股上市，日日新大模型，AI+行业解决方案",
+    "category": "model_closed",
+    "layer": "model",
+    "founded": "2014",
+    "funding": "已上市",
+    "fundingRound": "已上市",
+    "products": [
+      "日日新5.0",
+      "商汤如影",
+      "元萝卜"
+    ],
+    "baiduIndex": 42,
+    "url": "https://www.sensetime.com",
+    "tags": [
+      "AI视觉",
+      "上市公司",
+      "大模型"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 3,
+      "2023Q2": 6,
+      "2023Q3": 10,
+      "2023Q4": 13,
+      "2024Q1": 16,
+      "2024Q2": 19,
+      "2024Q3": 23,
+      "2024Q4": 26,
+      "2025Q1": 29,
+      "2025Q2": 32,
+      "2025Q3": 36,
+      "2025Q4": 39,
+      "2026Q1": 42
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算（见METHODOLOGY.md）"
+    }
+  },
+  {
+    "id": "yiyan_app",
+    "name": "百度搜索AI",
+    "shortDesc": "百度文心一言C端应用，累计用户超2亿",
+    "category": "app_search",
+    "layer": "application",
+    "founded": "2023",
+    "funding": "百度",
+    "fundingRound": "已上市",
+    "products": [
+      "百度AI搜索",
+      "百度文库AI"
+    ],
+    "baiduIndex": 52,
+    "url": "https://www.baidu.com",
+    "tags": [
+      "AI搜索",
+      "百度",
+      "搜索引擎"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 1,
+      "2023Q2": 2,
+      "2023Q3": 3,
+      "2023Q4": 4,
+      "2024Q1": 10,
+      "2024Q2": 12,
+      "2024Q3": 14,
+      "2024Q4": 16,
+      "2025Q1": 27,
+      "2025Q2": 30,
+      "2025Q3": 33,
+      "2025Q4": 36,
+      "2026Q1": 52
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算（见METHODOLOGY.md）"
+    }
+  },
+  {
+    "id": "zhipu_agent",
+    "name": "AutoGLM",
+    "shortDesc": "智谱AI推出的AutoGLM自主Agent，可操控手机/电脑完成复杂任务",
+    "category": "app_agent",
+    "layer": "application",
+    "founded": "2024",
+    "funding": "智谱AI",
+    "fundingRound": "B轮",
+    "products": [
+      "AutoGLM",
+      "GLM-PC"
+    ],
+    "baiduIndex": 28,
+    "url": "https://www.zhipuai.cn",
+    "tags": [
+      "AI Agent",
+      "智谱",
+      "自动化"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 0,
+      "2023Q2": 0,
+      "2023Q3": 0,
+      "2023Q4": 0,
+      "2024Q1": 3,
+      "2024Q2": 4,
+      "2024Q3": 5,
+      "2024Q4": 5,
+      "2025Q1": 12,
+      "2025Q2": 13,
+      "2025Q3": 15,
+      "2025Q4": 16,
+      "2026Q1": 26
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算（见METHODOLOGY.md）"
+    }
+  },
+  {
+    "id": "wanzhi",
+    "name": "万知",
+    "shortDesc": "万知——月之暗面企业级AI产品，面向办公场景",
+    "category": "app_office",
+    "layer": "application",
+    "founded": "2024",
+    "funding": "月之暗面",
+    "fundingRound": "B轮",
+    "products": [
+      "万知APP"
+    ],
+    "baiduIndex": 22,
+    "url": "https://www.wanzhi.com",
+    "tags": [
+      "AI办公",
+      "知识管理",
+      "Kimi"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 0,
+      "2023Q2": 0,
+      "2023Q3": 0,
+      "2023Q4": 0,
+      "2024Q1": 3,
+      "2024Q2": 3,
+      "2024Q3": 4,
+      "2024Q4": 4,
+      "2025Q1": 10,
+      "2025Q2": 11,
+      "2025Q3": 12,
+      "2025Q4": 13,
+      "2026Q1": 21
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算（见METHODOLOGY.md）"
+    }
+  },
+  {
+    "id": "coze",
+    "name": "扣子Coze",
+    "shortDesc": "字节扣子平台，AI Agent开发平台，累计创建Bot超百万",
+    "category": "app_agent",
+    "layer": "application",
+    "founded": "2024",
+    "funding": "字节跳动",
+    "fundingRound": "已上市",
+    "products": [
+      "Coze国内版",
+      "Coze海外版"
+    ],
+    "baiduIndex": 45,
+    "url": "https://www.coze.cn",
+    "tags": [
+      "AI Agent",
+      "低代码",
+      "字节"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 0,
+      "2023Q2": 0,
+      "2023Q3": 0,
+      "2023Q4": 0,
+      "2024Q1": 5,
+      "2024Q2": 6,
+      "2024Q3": 7,
+      "2024Q4": 8,
+      "2025Q1": 19,
+      "2025Q2": 25,
+      "2025Q3": 23,
+      "2025Q4": 25,
+      "2026Q1": 41
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算（见METHODOLOGY.md）"
+    }
+  },
+  {
+    "id": "tongyi_qianwen_app",
+    "name": "通义听悟",
+    "shortDesc": "通义听悟——阿里AI音视频会议助手，支持实时转录、摘要和翻译",
+    "category": "app_office",
+    "layer": "application",
+    "founded": "2023",
+    "funding": "阿里巴巴",
+    "fundingRound": "已上市",
+    "products": [
+      "通义听悟"
+    ],
+    "baiduIndex": 32,
+    "url": "https://tingwu.aliyun.com",
+    "tags": [
+      "会议纪要",
+      "转写",
+      "阿里"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 1,
+      "2023Q2": 2,
+      "2023Q3": 2,
+      "2023Q4": 3,
+      "2024Q1": 8,
+      "2024Q2": 9,
+      "2024Q3": 11,
+      "2024Q4": 12,
+      "2025Q1": 21,
+      "2025Q2": 23,
+      "2025Q3": 25,
+      "2025Q4": 28,
+      "2026Q1": 40
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算（见METHODOLOGY.md）"
+    }
+  },
+  {
+    "id": "shengshu",
+    "name": "生数科技 Vidu",
+    "shortDesc": "生数科技，Vidu视频生成模型，对标Sora，2024年A轮融资数亿元",
+    "category": "app_video",
+    "layer": "application",
+    "founded": "2023",
+    "funding": "数亿元",
+    "fundingRound": "A轮",
+    "products": [
+      "Vidu"
+    ],
+    "baiduIndex": 35,
+    "url": "https://www.vidu.cn",
+    "tags": [
+      "AI视频",
+      "视频生成",
+      "清华"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 1,
+      "2023Q2": 1,
+      "2023Q3": 2,
+      "2023Q4": 2,
+      "2024Q1": 6,
+      "2024Q2": 7,
+      "2024Q3": 9,
+      "2024Q4": 10,
+      "2025Q1": 17,
+      "2025Q2": 18,
+      "2025Q3": 20,
+      "2025Q4": 22,
+      "2026Q1": 32
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算（见METHODOLOGY.md）"
+    }
+  },
+  {
+    "id": "meitu",
+    "name": "美图AI",
+    "shortDesc": "美图公司，港股上市，AI修图/设计工具，WHEE AI设计平台",
+    "category": "app_design",
+    "layer": "application",
+    "founded": "2022",
+    "funding": "已上市",
+    "fundingRound": "已上市",
+    "products": [
+      "美图AI写真",
+      "美图设计室",
+      "WHEE"
+    ],
+    "baiduIndex": 40,
+    "url": "https://www.meitu.com",
+    "tags": [
+      "AI设计",
+      "图像处理",
+      "上市公司"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 2,
+      "2023Q2": 4,
+      "2023Q3": 6,
+      "2023Q4": 8,
+      "2024Q1": 15,
+      "2024Q2": 18,
+      "2024Q3": 21,
+      "2024Q4": 24,
+      "2025Q1": 36,
+      "2025Q2": 40,
+      "2025Q3": 44,
+      "2025Q4": 48,
+      "2026Q1": 52
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算（见METHODOLOGY.md）"
+    }
+  },
+  {
+    "id": "zhiyuan",
+    "name": "智源研究院",
+    "shortDesc": "北京智源研究院，非营利AI研究机构，悟道系列模型，推动中国AI开源生态",
+    "category": "model_open",
+    "layer": "model",
+    "founded": "2018",
+    "funding": "政府+企业",
+    "fundingRound": "未融资",
+    "products": [
+      "悟道3.0",
+      "AquilaChat",
+      "FlagEval"
+    ],
+    "baiduIndex": 25,
+    "url": "https://www.baai.ac.cn",
+    "tags": [
+      "开源",
+      "研究机构",
+      "评测"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 2,
+      "2023Q2": 4,
+      "2023Q3": 6,
+      "2023Q4": 8,
+      "2024Q1": 10,
+      "2024Q2": 12,
+      "2024Q3": 13,
+      "2024Q4": 15,
+      "2025Q1": 17,
+      "2025Q2": 19,
+      "2025Q3": 21,
+      "2025Q4": 23,
+      "2026Q1": 25
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算（见METHODOLOGY.md）"
+    }
+  },
+  {
+    "id": "iflytek",
+    "name": "科大讯飞",
+    "shortDesc": "2024年营收233.4亿元(+18.8%), 星火大模型收入+200% YoY, 87万开发者团队, 海外收入+212%",
+    "category": "model_closed",
+    "layer": "model",
+    "founded": "1999",
+    "funding": "A股上市",
+    "fundingRound": "已上市",
+    "products": [
+      "星火大模型4.0",
+      "讯飞听见",
+      "讯飞智文"
+    ],
+    "baiduIndex": 45,
+    "url": "https://www.iflytek.com",
+    "tags": [
+      "语音AI",
+      "上市公司",
+      "教育"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 4,
+      "2023Q2": 9,
+      "2023Q3": 13,
+      "2023Q4": 18,
+      "2024Q1": 22,
+      "2024Q2": 27,
+      "2024Q3": 31,
+      "2024Q4": 36,
+      "2025Q1": 40,
+      "2025Q2": 45,
+      "2025Q3": 53,
+      "2025Q4": 54,
+      "2026Q1": 58
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开报道/IPO招股书/PitchBook 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "horizon",
+    "name": "地平线",
+    "shortDesc": "2024年港股上市, 市值$114亿, ADAS市场份额45.8%, 2025年芯片出货目标1000万+片",
+    "category": "infra_chip",
+    "layer": "infrastructure",
+    "founded": "2015",
+    "funding": "港股IPO $6.96亿+PIPE $8.21亿",
+    "fundingRound": "已上市",
+    "products": [
+      "征程6",
+      "征程5"
+    ],
+    "baiduIndex": 30,
+    "url": "https://www.horizon.ai",
+    "tags": [
+      "自动驾驶芯片",
+      "车载AI",
+      "上市"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 5,
+      "2023Q2": 9,
+      "2023Q3": 14,
+      "2023Q4": 18,
+      "2024Q1": 23,
+      "2024Q2": 28,
+      "2024Q3": 32,
+      "2024Q4": 37,
+      "2025Q1": 42,
+      "2025Q2": 46,
+      "2025Q3": 51,
+      "2025Q4": 59,
+      "2026Q1": 60
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开报道/IPO招股书/PitchBook 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "aliyun_pai",
+    "name": "阿里云PAI",
+    "shortDesc": "阿里云AI开发平台，百炼大模型服务平台用户超百万，国内最大AI开发平台",
+    "category": "infra_cloud",
+    "layer": "infrastructure",
+    "founded": "2017",
+    "funding": "阿里巴巴",
+    "fundingRound": "已上市",
+    "products": [
+      "PAI平台",
+      "百炼",
+      "模型服务灵积"
+    ],
+    "baiduIndex": 38,
+    "url": "https://www.aliyun.com/product/bigdata/learn",
+    "tags": [
+      "云服务",
+      "阿里",
+      "AI平台"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 4,
+      "2023Q2": 8,
+      "2023Q3": 12,
+      "2023Q4": 15,
+      "2024Q1": 19,
+      "2024Q2": 23,
+      "2024Q3": 27,
+      "2024Q4": 31,
+      "2025Q1": 35,
+      "2025Q2": 38,
+      "2025Q3": 42,
+      "2025Q4": 50,
+      "2026Q1": 50
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算（见METHODOLOGY.md）"
+    }
+  },
+  {
+    "id": "apollo",
+    "name": "百度Apollo",
+    "shortDesc": "百度Apollo，萝卜快跑2025年武汉全无人驾驶常态化运营，累计服务超700万单",
+    "category": "embodied_auto",
+    "layer": "embodied",
+    "founded": "2017",
+    "funding": "百度",
+    "fundingRound": "已上市",
+    "products": [
+      "萝卜快跑",
+      "Apollo RT6"
+    ],
+    "baiduIndex": 42,
+    "url": "https://www.apollo.auto",
+    "tags": [
+      "自动驾驶",
+      "Robotaxi",
+      "百度"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 4,
+      "2023Q2": 7,
+      "2023Q3": 11,
+      "2023Q4": 15,
+      "2024Q1": 18,
+      "2024Q2": 22,
+      "2024Q3": 26,
+      "2024Q4": 30,
+      "2025Q1": 33,
+      "2025Q2": 41,
+      "2025Q3": 41,
+      "2025Q4": 44,
+      "2026Q1": 48
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算（见METHODOLOGY.md）"
+    }
+  },
+  {
+    "id": "paddlepaddle",
+    "name": "百度飞桨 PaddlePaddle",
+    "shortDesc": "GitHub 23.8K Stars, 国内首个自主研发开源深度学习框架, 工业级应用超千万",
+    "category": "infra_framework",
+    "layer": "infrastructure",
+    "founded": "2016",
+    "funding": "百度",
+    "fundingRound": "已上市",
+    "products": [
+      "PaddlePaddle",
+      "PaddleNLP",
+      "PaddleOCR",
+      "PaddleDetection"
+    ],
+    "githubStars": 23757,
+    "url": "https://www.paddlepaddle.org.cn",
+    "tags": [
+      "开源",
+      "深度学习框架",
+      "百度"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 4,
+      "2023Q2": 8,
+      "2023Q3": 13,
+      "2023Q4": 17,
+      "2024Q1": 21,
+      "2024Q2": 25,
+      "2024Q3": 30,
+      "2024Q4": 34,
+      "2025Q1": 38,
+      "2025Q2": 42,
+      "2025Q3": 47,
+      "2025Q4": 51,
+      "2026Q1": 55
+    },
+    "dataSource": {
+      "githubStars": "GitHub API 2026-03-16",
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算"
+    }
+  },
+  {
+    "id": "mindspore",
+    "name": "华为MindSpore",
+    "shortDesc": "GitHub 4.7K Stars, 华为自研AI计算框架, 深度适配昇腾芯片",
+    "category": "infra_framework",
+    "layer": "infrastructure",
+    "founded": "2020",
+    "funding": "华为",
+    "fundingRound": "已上市",
+    "products": [
+      "MindSpore",
+      "MindFormers",
+      "MindNLP"
+    ],
+    "githubStars": 4679,
+    "url": "https://www.mindspore.cn",
+    "tags": [
+      "开源",
+      "AI框架",
+      "华为"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 3,
+      "2023Q2": 5,
+      "2023Q3": 8,
+      "2023Q4": 11,
+      "2024Q1": 13,
+      "2024Q2": 16,
+      "2024Q3": 19,
+      "2024Q4": 22,
+      "2025Q1": 24,
+      "2025Q2": 27,
+      "2025Q3": 30,
+      "2025Q4": 32,
+      "2026Q1": 35
+    },
+    "dataSource": {
+      "githubStars": "GitHub API 2026-03-16",
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算"
+    }
+  },
+  {
+    "id": "colossalai",
+    "name": "ColossalAI",
+    "shortDesc": "GitHub 41.4K Stars, 大模型并行训练框架, 降低AI训练成本和门槛",
+    "category": "infra_framework",
+    "layer": "infrastructure",
+    "founded": "2021",
+    "funding": "数千万美元",
+    "fundingRound": "A轮",
+    "products": [
+      "ColossalAI",
+      "ColossalChat",
+      "Open-Sora"
+    ],
+    "githubStars": 41362,
+    "url": "https://colossalai.org",
+    "tags": [
+      "开源",
+      "并行训练",
+      "大模型"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 3,
+      "2023Q2": 6,
+      "2023Q3": 8,
+      "2023Q4": 11,
+      "2024Q1": 18,
+      "2024Q2": 22,
+      "2024Q3": 26,
+      "2024Q4": 30,
+      "2025Q1": 33,
+      "2025Q2": 37,
+      "2025Q3": 41,
+      "2025Q4": 44,
+      "2026Q1": 48
+    },
+    "dataSource": {
+      "githubStars": "GitHub API 2026-03-16",
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算"
+    }
+  },
+  {
+    "id": "volcengine",
+    "name": "火山引擎",
+    "shortDesc": "字节跳动企业级云服务平台, 提供豆包大模型API, 服务百万开发者",
+    "category": "infra_cloud",
+    "layer": "infrastructure",
+    "founded": "2020",
+    "funding": "字节跳动",
+    "fundingRound": "已上市",
+    "products": [
+      "火山引擎",
+      "豆包大模型API",
+      "veImageX",
+      "DataWind"
+    ],
+    "url": "https://www.volcengine.com",
+    "tags": [
+      "云服务",
+      "字节跳动",
+      "AI平台"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 4,
+      "2023Q2": 9,
+      "2023Q3": 13,
+      "2023Q4": 18,
+      "2024Q1": 22,
+      "2024Q2": 27,
+      "2024Q3": 31,
+      "2024Q4": 36,
+      "2025Q1": 40,
+      "2025Q2": 45,
+      "2025Q3": 49,
+      "2025Q4": 54,
+      "2026Q1": 58
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算"
+    }
+  },
+  {
+    "id": "tencentcloud_ti",
+    "name": "腾讯云TI平台",
+    "shortDesc": "腾讯AI开发平台, 混元大模型API, 覆盖训练/部署/推理全流程",
+    "category": "infra_cloud",
+    "layer": "infrastructure",
+    "founded": "2018",
+    "funding": "腾讯",
+    "fundingRound": "已上市",
+    "products": [
+      "TI平台",
+      "混元大模型",
+      "HunyuanVideo"
+    ],
+    "url": "https://cloud.tencent.com/product/ti",
+    "tags": [
+      "云服务",
+      "腾讯",
+      "大模型"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 3,
+      "2023Q2": 6,
+      "2023Q3": 10,
+      "2023Q4": 13,
+      "2024Q1": 16,
+      "2024Q2": 19,
+      "2024Q3": 23,
+      "2024Q4": 26,
+      "2025Q1": 29,
+      "2025Q2": 32,
+      "2025Q3": 36,
+      "2025Q4": 39,
+      "2026Q1": 42
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算"
+    }
+  },
+  {
+    "id": "yi",
+    "name": "零一万物 Yi",
+    "shortDesc": "李开复创立, 8个月估值破$10亿, 2025年转型放弃自研模型改用DeepSeek开源, 专注AI应用",
+    "category": "model_open",
+    "layer": "model",
+    "founded": "2023",
+    "funding": "累计约$3亿, 估值$10亿+",
+    "fundingRound": "B轮",
+    "products": [
+      "Yi-34B",
+      "Yi-VL",
+      "Yi-Coder"
+    ],
+    "githubStars": 7842,
+    "url": "https://www.01.ai",
+    "tags": [
+      "开源",
+      "多模态",
+      "李开复"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 1,
+      "2023Q2": 1,
+      "2023Q3": 2,
+      "2023Q4": 3,
+      "2024Q1": 7,
+      "2024Q2": 8,
+      "2024Q3": 9,
+      "2024Q4": 11,
+      "2025Q1": 18,
+      "2025Q2": 20,
+      "2025Q3": 22,
+      "2025Q4": 24,
+      "2026Q1": 35
+    },
+    "dataSource": {
+      "githubStars": "GitHub API 2026-03-16",
+      "funding": "公开报道/IPO招股书/PitchBook 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "internlm",
+    "name": "书生 InternLM",
+    "shortDesc": "GitHub 7.2K Stars, 上海AI实验室开源大模型系列, 多模态能力领先",
+    "category": "model_open",
+    "layer": "model",
+    "founded": "2023",
+    "funding": "政府+企业",
+    "fundingRound": "未融资",
+    "products": [
+      "InternLM2.5",
+      "InternVL",
+      "Lagent",
+      "XTuner"
+    ],
+    "githubStars": 7166,
+    "url": "https://internlm.intern-ai.org.cn",
+    "tags": [
+      "开源",
+      "研究",
+      "上海AI实验室"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 1,
+      "2023Q2": 1,
+      "2023Q3": 2,
+      "2023Q4": 3,
+      "2024Q1": 7,
+      "2024Q2": 9,
+      "2024Q3": 10,
+      "2024Q4": 12,
+      "2025Q1": 20,
+      "2025Q2": 22,
+      "2025Q3": 24,
+      "2025Q4": 26,
+      "2026Q1": 38
+    },
+    "dataSource": {
+      "githubStars": "GitHub API 2026-03-16",
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算"
+    }
+  },
+  {
+    "id": "minicpm",
+    "name": "面壁MiniCPM",
+    "shortDesc": "清华系端侧AI模型, MiniCPM系列累计下载超1000万次, GitHub 14K+ Stars, 部署于吉利/大众/华为终端",
+    "category": "model_open",
+    "layer": "model",
+    "founded": "2022",
+    "funding": "B轮, 投资方含茅台基金/中国电信",
+    "fundingRound": "B轮",
+    "products": [
+      "MiniCPM",
+      "MiniCPM-V",
+      "CPM-Bee"
+    ],
+    "githubStars": 8713,
+    "url": "https://www.modelbest.cn",
+    "tags": [
+      "开源",
+      "端侧模型",
+      "小模型"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 2,
+      "2023Q2": 3,
+      "2023Q3": 5,
+      "2023Q4": 6,
+      "2024Q1": 12,
+      "2024Q2": 15,
+      "2024Q3": 17,
+      "2024Q4": 19,
+      "2025Q1": 29,
+      "2025Q2": 32,
+      "2025Q3": 36,
+      "2025Q4": 39,
+      "2026Q1": 42
+    },
+    "dataSource": {
+      "githubStars": "GitHub API 2026-03-16",
+      "funding": "公开报道/IPO招股书/PitchBook 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "ubtech",
+    "name": "优必选",
+    "shortDesc": "全球首家上市人形机器人公司(港股9880), Walker系列2025年订单累计达13亿元",
+    "category": "embodied_robot",
+    "layer": "embodied",
+    "founded": "2012",
+    "funding": "港股上市, 累计配股超74亿港元",
+    "fundingRound": "已上市",
+    "products": [
+      "Walker S",
+      "Walker X",
+      "Yanshee",
+      "AIMOGA"
+    ],
+    "url": "https://www.ubtrobot.com",
+    "tags": [
+      "人形机器人",
+      "上市公司",
+      "商业落地"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 4,
+      "2023Q2": 8,
+      "2023Q3": 12,
+      "2023Q4": 15,
+      "2024Q1": 19,
+      "2024Q2": 23,
+      "2024Q3": 27,
+      "2024Q4": 31,
+      "2025Q1": 35,
+      "2025Q2": 38,
+      "2025Q3": 42,
+      "2025Q4": 46,
+      "2026Q1": 50
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开报道/IPO招股书/PitchBook 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "fourier",
+    "name": "傅利叶智能",
+    "shortDesc": "通用人形机器人GR系列已量产, 9轮融资近$2亿, 获软银/Aramco投资, GR-3最新一代",
+    "category": "embodied_robot",
+    "layer": "embodied",
+    "founded": "2015",
+    "funding": "9轮融资累计近$2亿",
+    "fundingRound": "E轮+",
+    "products": [
+      "GR-1",
+      "GR-2",
+      "ExoMotus"
+    ],
+    "url": "https://www.fftai.com",
+    "tags": [
+      "人形机器人",
+      "具身智能",
+      "康复"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 3,
+      "2023Q2": 7,
+      "2023Q3": 10,
+      "2023Q4": 14,
+      "2024Q1": 17,
+      "2024Q2": 21,
+      "2024Q3": 24,
+      "2024Q4": 28,
+      "2025Q1": 31,
+      "2025Q2": 35,
+      "2025Q3": 38,
+      "2025Q4": 42,
+      "2026Q1": 45
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开报道/IPO招股书/PitchBook 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "agibot",
+    "name": "智元机器人",
+    "shortDesc": "前华为天才少年稚晖君创立, 2025年全球人形机器人出货量第一(5168台), 估值超$20亿",
+    "category": "embodied_robot",
+    "layer": "embodied",
+    "founded": "2023",
+    "funding": "B轮, 估值超$20亿",
+    "fundingRound": "B轮",
+    "products": [
+      "远征A1",
+      "远征A2"
+    ],
+    "url": "https://www.agibot.com",
+    "tags": [
+      "人形机器人",
+      "稚晖君",
+      "具身智能"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 0,
+      "2023Q2": 0,
+      "2023Q3": 0,
+      "2023Q4": 2,
+      "2024Q1": 8,
+      "2024Q2": 15,
+      "2024Q3": 22,
+      "2024Q4": 30,
+      "2025Q1": 38,
+      "2025Q2": 45,
+      "2025Q3": 50,
+      "2025Q4": 55,
+      "2026Q1": 55
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开报道/IPO招股书/PitchBook 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "momenta",
+    "name": "Momenta",
+    "shortDesc": "累计融资超$14亿, 与BMW/奔驰/Uber达成合作, 量产智驾方案市场占有率领先",
+    "category": "embodied_auto",
+    "layer": "embodied",
+    "founded": "2016",
+    "funding": "累计超$14.2亿, 估值$50-60亿",
+    "fundingRound": "D轮",
+    "products": [
+      "Mpilot",
+      "MSD"
+    ],
+    "url": "https://www.momenta.cn",
+    "tags": [
+      "自动驾驶",
+      "量产",
+      "L2+"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 3,
+      "2023Q2": 7,
+      "2023Q3": 10,
+      "2023Q4": 14,
+      "2024Q1": 17,
+      "2024Q2": 21,
+      "2024Q3": 24,
+      "2024Q4": 28,
+      "2025Q1": 31,
+      "2025Q2": 35,
+      "2025Q3": 38,
+      "2025Q4": 42,
+      "2026Q1": 45
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开报道/IPO招股书/PitchBook 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "huawei_ads",
+    "name": "华为ADS智驾",
+    "shortDesc": "华为智能驾驶方案, 搭载问界/阿维塔/智界等车型, 城区NCA不依赖高精地图",
+    "category": "embodied_auto",
+    "layer": "embodied",
+    "founded": "2019",
+    "funding": "华为",
+    "fundingRound": "已上市",
+    "products": [
+      "ADS 2.0",
+      "ADS 3.0",
+      "MDC智驾平台"
+    ],
+    "url": "https://www.huawei.com",
+    "tags": [
+      "智能驾驶",
+      "华为",
+      "全场景"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 4,
+      "2023Q2": 9,
+      "2023Q3": 13,
+      "2023Q4": 18,
+      "2024Q1": 22,
+      "2024Q2": 27,
+      "2024Q3": 31,
+      "2024Q4": 36,
+      "2025Q1": 40,
+      "2025Q2": 45,
+      "2025Q3": 49,
+      "2025Q4": 54,
+      "2026Q1": 58
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算"
+    }
+  },
+  {
+    "id": "dify",
+    "name": "Dify",
+    "shortDesc": "GitHub 133K Stars, 开源AI Agent工作流平台, 获阿里云战略投资, 支持企业级RAG和Agent开发",
+    "category": "app_agent",
+    "layer": "application",
+    "founded": "2023",
+    "funding": "Pre-A轮$3000万",
+    "fundingRound": "A轮",
+    "products": [
+      "Dify Cloud",
+      "Dify Enterprise"
+    ],
+    "githubStars": 132982,
+    "url": "https://dify.ai",
+    "tags": [
+      "开源",
+      "AI平台",
+      "LLM编排"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 0,
+      "2023Q2": 5,
+      "2023Q3": 10,
+      "2023Q4": 15,
+      "2024Q1": 22,
+      "2024Q2": 30,
+      "2024Q3": 40,
+      "2024Q4": 50,
+      "2025Q1": 55,
+      "2025Q2": 60,
+      "2025Q3": 65,
+      "2025Q4": 70,
+      "2026Q1": 72
+    },
+    "dataSource": {
+      "githubStars": "GitHub API 2026-03-16",
+      "funding": "公开报道/IPO招股书/PitchBook 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "biren",
+    "name": "壁仞科技",
+    "shortDesc": "2026年1月港股上市, 市值$107亿, BR100系列通用GPU, 2024年营收$4780万",
+    "category": "infra_chip",
+    "layer": "infrastructure",
+    "founded": "2019",
+    "funding": "2026年1月港股IPO约$3亿, C轮$2.09亿",
+    "fundingRound": "已上市",
+    "products": [
+      "BR100",
+      "BR104",
+      "BIRENSUPA"
+    ],
+    "url": "https://www.birentech.com",
+    "tags": [
+      "GPU",
+      "国产芯片",
+      "算力"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 4,
+      "2023Q2": 7,
+      "2023Q3": 11,
+      "2023Q4": 15,
+      "2024Q1": 18,
+      "2024Q2": 22,
+      "2024Q3": 26,
+      "2024Q4": 30,
+      "2025Q1": 33,
+      "2025Q2": 37,
+      "2025Q3": 41,
+      "2025Q4": 44,
+      "2026Q1": 48
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开报道/IPO招股书/PitchBook 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "enflame",
+    "name": "燧原科技",
+    "shortDesc": "国产AI训练芯片, 云燧系列加速卡, E轮融资后已提交科创板IPO申请, 860名员工",
+    "category": "infra_chip",
+    "layer": "infrastructure",
+    "founded": "2018",
+    "funding": "累计$7.45-13.9亿, E轮",
+    "fundingRound": "E轮+",
+    "products": [
+      "云燧T20",
+      "云燧T21",
+      "驭算TopsRider"
+    ],
+    "url": "https://www.enflame-tech.com",
+    "tags": [
+      "AI芯片",
+      "训练芯片",
+      "国产算力"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 3,
+      "2023Q2": 6,
+      "2023Q3": 9,
+      "2023Q4": 12,
+      "2024Q1": 15,
+      "2024Q2": 18,
+      "2024Q3": 20,
+      "2024Q4": 23,
+      "2025Q1": 26,
+      "2025Q2": 29,
+      "2025Q3": 32,
+      "2025Q4": 35,
+      "2026Q1": 38
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开报道/IPO招股书/PitchBook 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "hunyuan",
+    "name": "腾讯混元",
+    "shortDesc": "腾讯自研大模型, 混元MoE架构, 支持文生图/视频, 开源HunyuanVideo",
+    "category": "model_closed",
+    "layer": "model",
+    "founded": "2023",
+    "funding": "腾讯",
+    "fundingRound": "已上市",
+    "products": [
+      "混元大模型",
+      "HunyuanVideo",
+      "混元API"
+    ],
+    "url": "https://hunyuan.tencent.com",
+    "tags": [
+      "闭源",
+      "MoE",
+      "腾讯"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 1,
+      "2023Q2": 2,
+      "2023Q3": 3,
+      "2023Q4": 4,
+      "2024Q1": 10,
+      "2024Q2": 12,
+      "2024Q3": 13,
+      "2024Q4": 15,
+      "2025Q1": 26,
+      "2025Q2": 29,
+      "2025Q3": 32,
+      "2025Q4": 35,
+      "2026Q1": 50
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开新闻报道",
+      "heat": "方法论v1.0计算"
+    }
+  },
+  {
+    "id": "moore_threads",
+    "name": "摩尔线程",
+    "shortDesc": "2025年12月科创板上市融资$11亿, 市值超3000亿元, 2024年营收4.38亿(+252%)",
+    "category": "infra_chip",
+    "layer": "infrastructure",
+    "founded": "2020",
+    "funding": "科创板IPO融资约80亿元",
+    "fundingRound": "已上市",
+    "products": [
+      "MUSA S4000",
+      "MUSA S80",
+      "KUAE"
+    ],
+    "url": "https://www.mthreads.com",
+    "tags": [
+      "GPU",
+      "国产芯片",
+      "上市公司"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 5,
+      "2023Q2": 8,
+      "2023Q3": 10,
+      "2023Q4": 12,
+      "2024Q1": 15,
+      "2024Q2": 20,
+      "2024Q3": 25,
+      "2024Q4": 35,
+      "2025Q1": 45,
+      "2025Q2": 55,
+      "2025Q3": 65,
+      "2025Q4": 75,
+      "2026Q1": 78
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开报道/IPO信息 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "galbot",
+    "name": "银河通用 Galbot",
+    "shortDesc": "成立不到2年估值达$30亿, 获宁德时代/博世/丰田数千台订单, 登上2026春晚",
+    "category": "embodied_robot",
+    "layer": "embodied",
+    "founded": "2023",
+    "funding": "累计超$3亿, 估值$30亿",
+    "fundingRound": "B轮",
+    "products": [
+      "Galbot G1"
+    ],
+    "url": "https://www.galbot.com",
+    "tags": [
+      "人形机器人",
+      "通用机器人",
+      "春晚"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 0,
+      "2023Q2": 0,
+      "2023Q3": 0,
+      "2023Q4": 2,
+      "2024Q1": 8,
+      "2024Q2": 15,
+      "2024Q3": 22,
+      "2024Q4": 30,
+      "2025Q1": 35,
+      "2025Q2": 40,
+      "2025Q3": 45,
+      "2025Q4": 50,
+      "2026Q1": 52
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开报道/IPO信息 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "weride",
+    "name": "文远知行 WeRide",
+    "shortDesc": "全球首个在5国持有自动驾驶牌照, 美股+港股双重上市, 与Uber达成合作",
+    "category": "embodied_auto",
+    "layer": "embodied",
+    "founded": "2017",
+    "funding": "IPO+定增约$4.6亿",
+    "fundingRound": "已上市",
+    "products": [
+      "WeRide One",
+      "Robotaxi",
+      "无人清扫车"
+    ],
+    "url": "https://www.weride.ai",
+    "tags": [
+      "自动驾驶",
+      "L4",
+      "双重上市"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 4,
+      "2023Q2": 7,
+      "2023Q3": 11,
+      "2023Q4": 15,
+      "2024Q1": 18,
+      "2024Q2": 22,
+      "2024Q3": 26,
+      "2024Q4": 30,
+      "2025Q1": 33,
+      "2025Q2": 37,
+      "2025Q3": 41,
+      "2025Q4": 44,
+      "2026Q1": 48
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开报道/IPO信息 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "hesai",
+    "name": "禾赛科技",
+    "shortDesc": "全球车载激光雷达份额连续4年第一, 全球首家实现全年non-GAAP盈利的激光雷达上市公司",
+    "category": "embodied_auto",
+    "layer": "embodied",
+    "founded": "2014",
+    "funding": "纳斯达克+港股双重上市",
+    "fundingRound": "已上市",
+    "products": [
+      "AT128",
+      "AT512",
+      "FT120",
+      "ET25"
+    ],
+    "url": "https://www.hesaitech.com",
+    "tags": [
+      "激光雷达",
+      "自动驾驶",
+      "双重上市"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 4,
+      "2023Q2": 8,
+      "2023Q3": 12,
+      "2023Q4": 16,
+      "2024Q1": 20,
+      "2024Q2": 24,
+      "2024Q3": 28,
+      "2024Q4": 32,
+      "2025Q1": 36,
+      "2025Q2": 40,
+      "2025Q3": 44,
+      "2025Q4": 48,
+      "2026Q1": 52
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开报道/IPO信息 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "metagpt",
+    "name": "MetaGPT",
+    "shortDesc": "GitHub 50K Stars, 多Agent协作框架, 模拟软件公司角色分工自动完成开发任务",
+    "category": "app_agent",
+    "layer": "application",
+    "founded": "2023",
+    "funding": "数千万元",
+    "fundingRound": "种子轮",
+    "products": [
+      "MetaGPT"
+    ],
+    "githubStars": 50000,
+    "url": "https://www.deepwisdom.ai",
+    "tags": [
+      "AI Agent",
+      "多Agent",
+      "开源"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 1,
+      "2023Q2": 2,
+      "2023Q3": 3,
+      "2023Q4": 4,
+      "2024Q1": 11,
+      "2024Q2": 13,
+      "2024Q3": 15,
+      "2024Q4": 17,
+      "2025Q1": 29,
+      "2025Q2": 32,
+      "2025Q3": 35,
+      "2025Q4": 38,
+      "2026Q1": 55
+    },
+    "dataSource": {
+      "githubStars": "GitHub API 2026-03-16",
+      "funding": "公开报道/IPO信息 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "baidu_cloud",
+    "name": "百度智能云",
+    "shortDesc": "千帆大模型平台, 2025上半年大模型中标数量与金额双双领先, 服务65%央企和80%系统重要性银行",
+    "category": "infra_cloud",
+    "layer": "infrastructure",
+    "founded": "2017",
+    "funding": "百度",
+    "fundingRound": "已上市",
+    "products": [
+      "千帆大模型平台",
+      "智能体平台",
+      "百度智能云"
+    ],
+    "url": "https://cloud.baidu.com",
+    "tags": [
+      "AI云",
+      "百度",
+      "大模型平台"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 4,
+      "2023Q2": 8,
+      "2023Q3": 12,
+      "2023Q4": 16,
+      "2024Q1": 20,
+      "2024Q2": 24,
+      "2024Q3": 28,
+      "2024Q4": 32,
+      "2025Q1": 36,
+      "2025Q2": 40,
+      "2025Q3": 44,
+      "2025Q4": 48,
+      "2026Q1": 52
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开报道/IPO信息 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "huawei_modelarts",
+    "name": "华为云ModelArts",
+    "shortDesc": "华为云一站式AI开发平台, 支持万亿参数模型训练, 深度适配昇腾生态",
+    "category": "infra_cloud",
+    "layer": "infrastructure",
+    "founded": "2018",
+    "funding": "华为",
+    "fundingRound": "已上市",
+    "products": [
+      "ModelArts Studio",
+      "盘古大模型平台"
+    ],
+    "url": "https://www.huaweicloud.com/product/modelarts.html",
+    "tags": [
+      "AI开发平台",
+      "华为云",
+      "昇腾"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 4,
+      "2023Q2": 8,
+      "2023Q3": 12,
+      "2023Q4": 15,
+      "2024Q1": 19,
+      "2024Q2": 23,
+      "2024Q3": 27,
+      "2024Q4": 31,
+      "2025Q1": 35,
+      "2025Q2": 38,
+      "2025Q3": 42,
+      "2025Q4": 46,
+      "2026Q1": 50
+    },
+    "dataSource": {
+      "githubStars": null,
+      "funding": "公开报道/IPO信息 2025-2026",
+      "heat": "方法论v2.0计算"
+    }
+  },
+  {
+    "id": "flageval",
+    "name": "FlagEval 天秤",
+    "shortDesc": "智源研究院推出的大模型评测平台，覆盖语言、视觉、多模态能力评估",
+    "category": "model_eval",
+    "layer": "model",
+    "founded": "2023",
+    "funding": "智源研究院支持",
+    "fundingRound": "未融资",
+    "products": [
+      "FlagEval评测平台"
+    ],
+    "url": "https://flageval.baai.ac.cn",
+    "tags": [
+      "评测",
+      "基准测试",
+      "智源"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 0,
+      "2023Q2": 5,
+      "2023Q3": 10,
+      "2023Q4": 15,
+      "2024Q1": 20,
+      "2024Q2": 22,
+      "2024Q3": 25,
+      "2024Q4": 28,
+      "2025Q1": 30,
+      "2025Q2": 32,
+      "2025Q3": 33,
+      "2025Q4": 35,
+      "2026Q1": 36
+    }
+  },
+  {
+    "id": "superclue",
+    "name": "SuperCLUE",
+    "shortDesc": "中文大模型综合评测基准，涵盖推理、知识、安全等多维度",
+    "category": "model_eval",
+    "layer": "model",
+    "founded": "2023",
+    "funding": "独立运营",
+    "fundingRound": "未融资",
+    "products": [
+      "SuperCLUE排行榜",
+      "SuperCLUE-Safety"
+    ],
+    "url": "https://www.superclueai.com",
+    "tags": [
+      "评测",
+      "中文",
+      "排行榜"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 0,
+      "2023Q2": 8,
+      "2023Q3": 15,
+      "2023Q4": 20,
+      "2024Q1": 25,
+      "2024Q2": 28,
+      "2024Q3": 30,
+      "2024Q4": 28,
+      "2025Q1": 26,
+      "2025Q2": 25,
+      "2025Q3": 24,
+      "2025Q4": 23,
+      "2026Q1": 22
+    }
+  },
+  {
+    "id": "opencompass",
+    "name": "OpenCompass 司南",
+    "shortDesc": "上海AI Lab推出的开源大模型评测框架，支持100+数据集",
+    "category": "model_eval",
+    "layer": "model",
+    "founded": "2023",
+    "funding": "上海AI Lab",
+    "fundingRound": "未融资",
+    "products": [
+      "OpenCompass评测平台",
+      "CompassRank"
+    ],
+    "githubStars": 5200,
+    "url": "https://opencompass.org.cn",
+    "tags": [
+      "评测",
+      "开源",
+      "上海AI Lab"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 0,
+      "2023Q2": 3,
+      "2023Q3": 10,
+      "2023Q4": 18,
+      "2024Q1": 25,
+      "2024Q2": 30,
+      "2024Q3": 35,
+      "2024Q4": 38,
+      "2025Q1": 40,
+      "2025Q2": 42,
+      "2025Q3": 43,
+      "2025Q4": 44,
+      "2026Q1": 45
+    }
+  },
+  {
+    "id": "scale_cn",
+    "name": "龙猫数据",
+    "shortDesc": "国内头部AI数据标注服务商，为主流大模型提供RLHF对齐标注",
+    "category": "infra_data",
+    "layer": "infrastructure",
+    "founded": "2017",
+    "funding": "数亿元",
+    "fundingRound": "C轮",
+    "products": [
+      "数据标注平台",
+      "RLHF标注",
+      "多模态标注"
+    ],
+    "url": "https://www.longmaosoft.com",
+    "tags": [
+      "数据标注",
+      "RLHF",
+      "训练数据"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 15,
+      "2023Q2": 18,
+      "2023Q3": 22,
+      "2023Q4": 28,
+      "2024Q1": 32,
+      "2024Q2": 35,
+      "2024Q3": 38,
+      "2024Q4": 40,
+      "2025Q1": 42,
+      "2025Q2": 43,
+      "2025Q3": 44,
+      "2025Q4": 45,
+      "2026Q1": 45
+    }
+  },
+  {
+    "id": "basicfinder",
+    "name": "倍赛BasicFinder",
+    "shortDesc": "AI数据训练服务平台，覆盖自动驾驶、大模型等场景的数据处理",
+    "category": "infra_data",
+    "layer": "infrastructure",
+    "founded": "2015",
+    "funding": "数亿元",
+    "fundingRound": "B轮",
+    "products": [
+      "数据标注",
+      "数据采集",
+      "自动驾驶标注"
+    ],
+    "url": "https://www.basicfinder.com",
+    "tags": [
+      "数据标注",
+      "自动驾驶",
+      "标注平台"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 12,
+      "2023Q2": 14,
+      "2023Q3": 18,
+      "2023Q4": 22,
+      "2024Q1": 25,
+      "2024Q2": 28,
+      "2024Q3": 30,
+      "2024Q4": 32,
+      "2025Q1": 33,
+      "2025Q2": 34,
+      "2025Q3": 35,
+      "2025Q4": 35,
+      "2026Q1": 34
+    }
+  },
+  {
+    "id": "modb",
+    "name": "海天瑞声",
+    "shortDesc": "A股上市的AI训练数据提供商(688787)，覆盖语音、NLP、CV多模态数据",
+    "category": "infra_data",
+    "layer": "infrastructure",
+    "founded": "2005",
+    "funding": "已上市",
+    "fundingRound": "已上市",
+    "products": [
+      "语音数据集",
+      "NLP数据集",
+      "多模态数据"
+    ],
+    "url": "https://www.speechocean.com",
+    "tags": [
+      "训练数据",
+      "上市",
+      "多模态"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 10,
+      "2023Q2": 12,
+      "2023Q3": 15,
+      "2023Q4": 20,
+      "2024Q1": 22,
+      "2024Q2": 25,
+      "2024Q3": 28,
+      "2024Q4": 30,
+      "2025Q1": 28,
+      "2025Q2": 26,
+      "2025Q3": 25,
+      "2025Q4": 24,
+      "2026Q1": 23
+    }
+  },
+  {
+    "id": "ruleai",
+    "name": "瑞莱智慧",
+    "shortDesc": "清华系AI安全公司，聚焦大模型安全评估、内容合规、深度伪造检测",
+    "category": "ai_safety",
+    "layer": "infrastructure",
+    "founded": "2019",
+    "funding": "超10亿元",
+    "fundingRound": "C轮",
+    "products": [
+      "AI安全评估",
+      "深度伪造检测",
+      "大模型合规"
+    ],
+    "url": "https://www.realai.ai",
+    "tags": [
+      "AI安全",
+      "对齐",
+      "清华"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 10,
+      "2023Q2": 12,
+      "2023Q3": 18,
+      "2023Q4": 22,
+      "2024Q1": 28,
+      "2024Q2": 32,
+      "2024Q3": 38,
+      "2024Q4": 42,
+      "2025Q1": 45,
+      "2025Q2": 48,
+      "2025Q3": 50,
+      "2025Q4": 52,
+      "2026Q1": 55
+    }
+  },
+  {
+    "id": "antgroup_ai_safety",
+    "name": "蚂蚁安全实验室",
+    "shortDesc": "蚂蚁集团AI安全团队，研究大模型对抗攻击防御、幻觉检测、可信AI",
+    "category": "ai_safety",
+    "layer": "infrastructure",
+    "founded": "2020",
+    "funding": "蚂蚁集团内部",
+    "fundingRound": "已上市",
+    "products": [
+      "蚁天鉴大模型安全",
+      "AI内容检测"
+    ],
+    "url": "https://www.antgroup.com",
+    "tags": [
+      "AI安全",
+      "可信AI",
+      "蚂蚁"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 5,
+      "2023Q2": 8,
+      "2023Q3": 12,
+      "2023Q4": 18,
+      "2024Q1": 22,
+      "2024Q2": 28,
+      "2024Q3": 32,
+      "2024Q4": 35,
+      "2025Q1": 38,
+      "2025Q2": 40,
+      "2025Q3": 42,
+      "2025Q4": 44,
+      "2026Q1": 46
+    }
+  },
+  {
+    "id": "zilliz",
+    "name": "Zilliz",
+    "shortDesc": "Milvus向量数据库的商业化公司，云原生向量搜索，RAG核心基础设施",
+    "category": "infra_tool",
+    "layer": "infrastructure",
+    "founded": "2017",
+    "funding": "超1.1亿美元",
+    "fundingRound": "B+轮",
+    "products": [
+      "Milvus",
+      "Zilliz Cloud"
+    ],
+    "githubStars": 32000,
+    "url": "https://zilliz.com",
+    "tags": [
+      "向量数据库",
+      "RAG",
+      "开源"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 20,
+      "2023Q2": 25,
+      "2023Q3": 30,
+      "2023Q4": 38,
+      "2024Q1": 45,
+      "2024Q2": 50,
+      "2024Q3": 55,
+      "2024Q4": 58,
+      "2025Q1": 60,
+      "2025Q2": 62,
+      "2025Q3": 63,
+      "2025Q4": 64,
+      "2026Q1": 65
+    }
+  },
+  {
+    "id": "jina",
+    "name": "Jina AI",
+    "shortDesc": "中国团队创建的开源AI搜索基础设施，Embedding和Reranker模型全球领先",
+    "category": "infra_tool",
+    "layer": "infrastructure",
+    "founded": "2020",
+    "funding": "3750万美元",
+    "fundingRound": "A轮",
+    "products": [
+      "Jina Embeddings",
+      "Jina Reranker",
+      "Jina Reader"
+    ],
+    "githubStars": 23000,
+    "url": "https://jina.ai",
+    "tags": [
+      "Embedding",
+      "搜索",
+      "开源"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 12,
+      "2023Q2": 15,
+      "2023Q3": 20,
+      "2023Q4": 28,
+      "2024Q1": 35,
+      "2024Q2": 40,
+      "2024Q3": 45,
+      "2024Q4": 48,
+      "2025Q1": 50,
+      "2025Q2": 52,
+      "2025Q3": 53,
+      "2025Q4": 54,
+      "2026Q1": 55
+    }
+  },
+  {
+    "id": "xinference",
+    "name": "Xorbits Xinference",
+    "shortDesc": "开源模型推理引擎，一键部署LLM/Embedding/Reranker，支持vLLM后端",
+    "category": "infra_tool",
+    "layer": "infrastructure",
+    "founded": "2023",
+    "funding": "数千万元",
+    "fundingRound": "天使轮",
+    "products": [
+      "Xinference"
+    ],
+    "githubStars": 6800,
+    "url": "https://github.com/xorbitsai/inference",
+    "tags": [
+      "推理部署",
+      "开源",
+      "LLM部署"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 0,
+      "2023Q2": 3,
+      "2023Q3": 8,
+      "2023Q4": 15,
+      "2024Q1": 22,
+      "2024Q2": 28,
+      "2024Q3": 32,
+      "2024Q4": 35,
+      "2025Q1": 38,
+      "2025Q2": 40,
+      "2025Q3": 41,
+      "2025Q4": 42,
+      "2026Q1": 43
+    }
+  },
+  {
+    "id": "fish_audio",
+    "name": "Fish Audio",
+    "shortDesc": "开源语音合成平台，Fish Speech模型支持中英日韩多语言零样本克隆",
+    "category": "app_audio",
+    "layer": "application",
+    "founded": "2023",
+    "funding": "数千万元",
+    "fundingRound": "种子轮",
+    "products": [
+      "Fish Speech",
+      "Fish Audio平台"
+    ],
+    "githubStars": 18000,
+    "url": "https://fish.audio",
+    "tags": [
+      "语音合成",
+      "TTS",
+      "开源"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 0,
+      "2023Q2": 0,
+      "2023Q3": 5,
+      "2023Q4": 10,
+      "2024Q1": 18,
+      "2024Q2": 25,
+      "2024Q3": 35,
+      "2024Q4": 42,
+      "2025Q1": 50,
+      "2025Q2": 55,
+      "2025Q3": 58,
+      "2025Q4": 60,
+      "2026Q1": 62
+    }
+  },
+  {
+    "id": "chattts",
+    "name": "ChatTTS",
+    "shortDesc": "专为对话场景设计的语音合成模型，支持韵律控制和笑声等副语言特征",
+    "category": "app_audio",
+    "layer": "application",
+    "founded": "2024",
+    "funding": "未融资",
+    "fundingRound": "未融资",
+    "products": [
+      "ChatTTS"
+    ],
+    "githubStars": 33000,
+    "url": "https://github.com/2noise/ChatTTS",
+    "tags": [
+      "TTS",
+      "对话语音",
+      "开源"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 0,
+      "2023Q2": 0,
+      "2023Q3": 0,
+      "2023Q4": 0,
+      "2024Q1": 0,
+      "2024Q2": 50,
+      "2024Q3": 60,
+      "2024Q4": 55,
+      "2025Q1": 48,
+      "2025Q2": 42,
+      "2025Q3": 38,
+      "2025Q4": 35,
+      "2026Q1": 33
+    }
+  },
+  {
+    "id": "funasr",
+    "name": "FunASR",
+    "shortDesc": "阿里达摩院开源语音识别框架，支持Paraformer等高精度中文ASR模型",
+    "category": "app_audio",
+    "layer": "application",
+    "founded": "2023",
+    "funding": "阿里巴巴",
+    "fundingRound": "已上市",
+    "products": [
+      "FunASR",
+      "Paraformer",
+      "SenseVoice"
+    ],
+    "githubStars": 8500,
+    "url": "https://github.com/modelscope/FunASR",
+    "tags": [
+      "语音识别",
+      "ASR",
+      "阿里"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 5,
+      "2023Q2": 10,
+      "2023Q3": 15,
+      "2023Q4": 22,
+      "2024Q1": 28,
+      "2024Q2": 32,
+      "2024Q3": 36,
+      "2024Q4": 40,
+      "2025Q1": 42,
+      "2025Q2": 44,
+      "2025Q3": 45,
+      "2025Q4": 46,
+      "2026Q1": 47
+    }
+  },
+  {
+    "id": "devin_cn",
+    "name": "DevIn (蚂蚁)",
+    "shortDesc": "蚂蚁集团推出的AI编程助手，支持代码生成、审查、重构全流程",
+    "category": "app_coding",
+    "layer": "application",
+    "founded": "2024",
+    "funding": "蚂蚁集团内部",
+    "fundingRound": "已上市",
+    "products": [
+      "DevIn编程助手"
+    ],
+    "url": "https://devinsuite.com",
+    "tags": [
+      "AI编程",
+      "代码生成",
+      "蚂蚁"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 0,
+      "2023Q2": 0,
+      "2023Q3": 0,
+      "2023Q4": 0,
+      "2024Q1": 0,
+      "2024Q2": 5,
+      "2024Q3": 12,
+      "2024Q4": 20,
+      "2025Q1": 30,
+      "2025Q2": 38,
+      "2025Q3": 42,
+      "2025Q4": 45,
+      "2026Q1": 48
+    }
+  },
+  {
+    "id": "codegeeex",
+    "name": "CodeGeeX",
+    "shortDesc": "智谱AI推出的AI编程助手，基于GLM模型，VSCode/JetBrains全平台支持",
+    "category": "app_coding",
+    "layer": "application",
+    "founded": "2022",
+    "funding": "智谱AI",
+    "fundingRound": "E轮+",
+    "products": [
+      "CodeGeeX"
+    ],
+    "githubStars": 12000,
+    "url": "https://codegeex.cn",
+    "tags": [
+      "AI编程",
+      "代码补全",
+      "智谱"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 10,
+      "2023Q2": 15,
+      "2023Q3": 18,
+      "2023Q4": 22,
+      "2024Q1": 28,
+      "2024Q2": 32,
+      "2024Q3": 35,
+      "2024Q4": 38,
+      "2025Q1": 40,
+      "2025Q2": 42,
+      "2025Q3": 43,
+      "2025Q4": 44,
+      "2026Q1": 45
+    }
+  },
+  {
+    "id": "hailuo",
+    "name": "海螺AI视频",
+    "shortDesc": "MiniMax推出的AI视频生成工具，文本/图片生成高质量短视频",
+    "category": "app_video",
+    "layer": "application",
+    "founded": "2024",
+    "funding": "MiniMax",
+    "fundingRound": "已上市",
+    "products": [
+      "海螺AI视频"
+    ],
+    "url": "https://hailuoai.video",
+    "tags": [
+      "视频生成",
+      "文生视频",
+      "MiniMax"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 0,
+      "2023Q2": 0,
+      "2023Q3": 0,
+      "2023Q4": 0,
+      "2024Q1": 0,
+      "2024Q2": 0,
+      "2024Q3": 15,
+      "2024Q4": 30,
+      "2025Q1": 42,
+      "2025Q2": 48,
+      "2025Q3": 52,
+      "2025Q4": 55,
+      "2026Q1": 58
+    }
+  },
+  {
+    "id": "metaso",
+    "name": "秘塔AI搜索",
+    "shortDesc": "秘塔科技推出的AI搜索引擎，无广告，结构化深度搜索，月活超千万",
+    "category": "app_search",
+    "layer": "application",
+    "founded": "2023",
+    "funding": "数亿元",
+    "fundingRound": "A轮",
+    "products": [
+      "秘塔AI搜索"
+    ],
+    "url": "https://metaso.cn",
+    "tags": [
+      "AI搜索",
+      "深度搜索",
+      "无广告"
+    ],
+    "heatByQuarter": {
+      "2023Q1": 0,
+      "2023Q2": 0,
+      "2023Q3": 0,
+      "2023Q4": 5,
+      "2024Q1": 12,
+      "2024Q2": 22,
+      "2024Q3": 35,
+      "2024Q4": 45,
+      "2025Q1": 55,
+      "2025Q2": 60,
+      "2025Q3": 62,
+      "2025Q4": 64,
+      "2026Q1": 65
+    }
+  }
+]

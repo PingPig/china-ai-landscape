@@ -1,0 +1,243 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ===== Theme Variables ===== */
+:root,
+[data-theme="dark"] {
+  --bg-primary: #06080e;
+  --bg-panel: rgba(10, 12, 22, 0.85);
+  --bg-panel-hover: rgba(16, 20, 36, 0.9);
+  --bg-hover: rgba(255, 255, 255, 0.03);
+  --bg-input: rgba(255, 255, 255, 0.03);
+  --border: rgba(255, 255, 255, 0.05);
+  --border-hover: rgba(255, 255, 255, 0.08);
+  --text-1: #e2e8f0;
+  --text-2: #94a3b8;
+  --text-3: #475569;
+  --text-4: #1e293b;
+  --accent-1: #3b82f6;
+  --accent-2: #ef4444;
+  --accent-3: #22c55e;
+  --shadow: 0 1px 3px rgba(0,0,0,0.3);
+  --bar-bg: rgba(255, 255, 255, 0.04);
+  --tooltip-bg: rgba(6, 8, 14, 0.96);
+  --select-bg: #0c0e18;
+  --slider-track: #1e293b;
+  --slider-thumb: #3b82f6;
+}
+
+[data-theme="light"] {
+  --bg-primary: #f1f5f9;
+  --bg-panel: rgba(255, 255, 255, 0.88);
+  --bg-panel-hover: rgba(255, 255, 255, 0.95);
+  --bg-hover: rgba(0, 0, 0, 0.03);
+  --bg-input: rgba(0, 0, 0, 0.04);
+  --border: rgba(0, 0, 0, 0.08);
+  --border-hover: rgba(0, 0, 0, 0.12);
+  --text-1: #0f172a;
+  --text-2: #475569;
+  --text-3: #94a3b8;
+  --text-4: #cbd5e1;
+  --accent-1: #2563eb;
+  --accent-2: #dc2626;
+  --accent-3: #16a34a;
+  --shadow: 0 1px 3px rgba(0,0,0,0.08);
+  --bar-bg: rgba(0, 0, 0, 0.05);
+  --tooltip-bg: rgba(255, 255, 255, 0.96);
+  --select-bg: #ffffff;
+  --slider-track: #cbd5e1;
+  --slider-thumb: #2563eb;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--text-4) transparent;
+}
+
+body {
+  background: var(--bg-primary);
+  color: var(--text-1);
+  overflow: hidden;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  transition: background 0.3s, color 0.3s;
+}
+
+/* ===== Dashboard panel ===== */
+.dash-panel {
+  background: var(--bg-panel);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  backdrop-filter: blur(12px);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  transition: background 0.3s, border-color 0.3s;
+}
+
+.dash-panel:hover {
+  border-color: var(--border-hover);
+}
+
+/* ===== Panel header ===== */
+.panel-header {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--text-2);
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--border);
+}
+
+/* ===== ECharts tooltip ===== */
+.echarts-tooltip-custom {
+  background: var(--tooltip-bg) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 8px !important;
+  padding: 10px 14px !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15) !important;
+  backdrop-filter: blur(12px) !important;
+}
+
+[data-theme="dark"] .echarts-tooltip-custom {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4) !important;
+}
+
+/* ===== Slider ===== */
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 4px;
+  background: var(--slider-track);
+  border-radius: 2px;
+  outline: none;
+  transition: background 0.3s;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--slider-thumb);
+  cursor: pointer;
+  border: 2px solid var(--bg-primary);
+  box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+  transition: box-shadow 0.2s;
+}
+
+input[type="range"]::-webkit-slider-thumb:hover {
+  box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.15);
+}
+
+/* ===== Streaming cursor ===== */
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
+.streaming-cursor::after {
+  content: "▊";
+  animation: blink 1s infinite;
+  color: var(--accent-1);
+}
+
+/* ===== Select ===== */
+select {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M6 8L1 3h10z' fill='%2364748b'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+  padding-right: 28px !important;
+}
+
+select option {
+  background: var(--select-bg);
+}
+
+/* ===== Auto-play ranking animation ===== */
+@keyframes rank-slide-in {
+  from { opacity: 0; transform: translateX(-8px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+.rank-enter {
+  animation: rank-slide-in 0.4s ease-out;
+}
+
+/* ===== Trend indicator ===== */
+.trend-up { color: #16a34a; }
+.trend-down { color: #dc2626; }
+.trend-flat { color: var(--text-3); }
+
+/* ===== Live dot pulse ===== */
+@keyframes live-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
+}
+
+.live-dot {
+  animation: live-pulse 2s ease-in-out infinite;
+}
+
+/* ===== Subtle background grid (dark only) ===== */
+[data-theme="dark"] .bg-grid {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background-image:
+    linear-gradient(rgba(255,255,255, 0.015) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255, 0.015) 1px, transparent 1px);
+  background-size: 80px 80px;
+  mask-image: radial-gradient(ellipse 60% 50% at 50% 40%, black 10%, transparent 70%);
+}
+
+[data-theme="light"] .bg-grid {
+  display: none;
+}
+
+/* ===== Interactive button hover ===== */
+.timeline-btn:hover {
+  background: var(--bg-panel-hover) !important;
+  color: var(--text-1) !important;
+}
+
+/* ===== Ranking item hover ===== */
+.ranking-item:hover {
+  background: var(--bg-hover);
+}
+
+/* ===== Focus visible ring ===== */
+button:focus-visible,
+select:focus-visible,
+input:focus-visible {
+  outline: 2px solid var(--accent-1);
+  outline-offset: 1px;
+  border-radius: 4px;
+}
+
+/* ===== Smooth number transitions ===== */
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* ===== Ticker item hover ===== */
+.ticker-item:hover span {
+  color: var(--text-1) !important;
+}
+
+/* ===== Panel active state ===== */
+.dash-panel:active {
+  transform: scale(0.998);
+}
+
+/* ===== Keyboard shortcut hint ===== */
+.kbd-hint {
+  font-size: 8px;
+  padding: 1px 4px;
+  border-radius: 3px;
+  background: var(--bg-hover);
+  color: var(--text-4);
+  border: 1px solid var(--border);
+  font-family: monospace;
+}

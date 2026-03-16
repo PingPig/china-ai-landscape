@@ -1,0 +1,228 @@
+{
+  "lastUpdated": "2026-03-16",
+  "anomalies": [
+    {
+      "projectId": "ubtech",
+      "type": "stock_month_drop",
+      "metric": "stock_month",
+      "ticker": "9880.HK",
+      "price": 104.8,
+      "currency": "HKD",
+      "changePercent": -24.06,
+      "projectName": "优必选",
+      "severity": "high"
+    },
+    {
+      "projectId": "sensetime",
+      "type": "stock_drop",
+      "metric": "stock_week",
+      "ticker": "0020.HK",
+      "price": 2.05,
+      "currency": "HKD",
+      "changePercent": -12.77,
+      "projectName": "商汤科技",
+      "severity": "medium"
+    },
+    {
+      "projectId": "sensetime",
+      "type": "stock_month_drop",
+      "metric": "stock_month",
+      "ticker": "0020.HK",
+      "price": 2.05,
+      "currency": "HKD",
+      "changePercent": -22.35,
+      "projectName": "商汤科技",
+      "severity": "high"
+    },
+    {
+      "projectId": "pony",
+      "type": "stock_drop",
+      "metric": "stock_week",
+      "ticker": "PONY",
+      "price": 11.44,
+      "currency": "USD",
+      "changePercent": -13.73,
+      "projectName": "小马智行",
+      "severity": "medium"
+    }
+  ],
+  "insights": [
+    {
+      "title": "市场情绪",
+      "content": "AI板块整体偏空：14只标的中2涨12跌，周均-4.0%、月均-12.7%。短期承压明显，关注是否有政策面催化。",
+      "type": "trend",
+      "metric": "-4.0%",
+      "relatedProjects": [
+        "cambricon",
+        "moore_threads",
+        "iflytek"
+      ]
+    },
+    {
+      "title": "开源动量",
+      "content": "监控10个开源项目，累计Stars 354k。TOP3：Dify(133.0k)、DeepSeek(102.2k)、ColossalAI(41.4k)。平均Fork/Star比11.9%，比值偏低，多数项目以观望型关注为主。",
+      "type": "trend",
+      "metric": "354k★",
+      "relatedProjects": [
+        "dify",
+        "deepseek",
+        "colossalai",
+        "paddlepaddle",
+        "qwen"
+      ]
+    },
+    {
+      "title": "生态均衡",
+      "content": "中国AI生态存在4个薄弱环节：AI设计、AI安全、AI框架、AI工具链。最突出的是\"AI设计\"（2/3），全球对标Midjourney, DALL-E, Adobe Firefly。基础设施层缺口最多，制约上层应用发展。",
+      "type": "alert",
+      "metric": "4缺口",
+      "relatedProjects": [
+        "即梦AI",
+        "美图AI",
+        "瑞莱智慧"
+      ]
+    },
+    {
+      "title": "板块轮动",
+      "content": "按交易市场分组：HKD(7只,周均-3.4%)、CNY(3只,周均-3.5%)、USD(4只,周均-5.3%)。HKD板块相对抗跌，USD板块承压较重。",
+      "type": "trend",
+      "metric": "HKD领先",
+      "relatedProjects": [
+        "cambricon",
+        "moore_threads",
+        "iflytek"
+      ]
+    },
+    {
+      "title": "集中度风险",
+      "content": "开源Stars高度集中：Dify以133k Stars占据头部位置，是平均值的3.8倍。头部效应显著但尚在合理范围，中腰部项目仍有突围机会。",
+      "type": "risk",
+      "metric": "3.8x集中",
+      "relatedProjects": [
+        "dify",
+        "deepseek",
+        "colossalai"
+      ]
+    },
+    {
+      "title": "估值回调",
+      "content": "本周优必选(-24.06%)、商汤科技(-12.77%)、商汤科技(-22.35%)、小马智行(-13.73%)出现明显回调。部分跌幅超20%，已进入技术性熊市区间，需关注是否触发融资盘强平或机构减持。",
+      "type": "alert",
+      "metric": "4只↓",
+      "relatedProjects": [
+        "ubtech",
+        "sensetime",
+        "sensetime",
+        "pony"
+      ]
+    }
+  ],
+  "gapAnalysis": {
+    "gaps": [
+      {
+        "category": "app_design",
+        "label": "AI设计",
+        "count": 2,
+        "idealMin": 3,
+        "severity": "critical",
+        "globalBenchmark": "Midjourney, DALL-E, Adobe Firefly",
+        "players": [
+          "即梦AI",
+          "美图AI"
+        ],
+        "insight": "\"AI设计\"仅有2个玩家（即梦AI、美图AI），低于健康生态所需的3个。全球对标：Midjourney, DALL-E, Adobe Firefly。"
+      },
+      {
+        "category": "ai_safety",
+        "label": "AI安全",
+        "count": 2,
+        "idealMin": 3,
+        "severity": "critical",
+        "globalBenchmark": "Anthropic Constitutional AI, OpenAI Safety, DeepMind Safety",
+        "players": [
+          "瑞莱智慧",
+          "蚂蚁安全实验室"
+        ],
+        "insight": "\"AI安全\"仅有2个玩家（瑞莱智慧、蚂蚁安全实验室），低于健康生态所需的3个。全球对标：Anthropic Constitutional AI, OpenAI Safety, DeepMind Safety。"
+      },
+      {
+        "category": "infra_framework",
+        "label": "AI框架",
+        "count": 3,
+        "idealMin": 4,
+        "severity": "weak",
+        "globalBenchmark": "PyTorch, JAX, TensorFlow",
+        "players": [
+          "百度飞桨 PaddlePaddle",
+          "华为MindSpore",
+          "ColossalAI"
+        ],
+        "insight": "\"AI框架\"仅有3个玩家（百度飞桨 PaddlePaddle、华为MindSpore、ColossalAI），低于健康生态所需的4个。全球对标：PyTorch, JAX, TensorFlow。"
+      },
+      {
+        "category": "infra_tool",
+        "label": "AI工具链",
+        "count": 3,
+        "idealMin": 4,
+        "severity": "weak",
+        "globalBenchmark": "Pinecone, Weaviate, vLLM, Ollama",
+        "players": [
+          "Zilliz",
+          "Jina AI",
+          "Xorbits Xinference"
+        ],
+        "insight": "\"AI工具链\"仅有3个玩家（Zilliz、Jina AI、Xorbits Xinference），低于健康生态所需的4个。全球对标：Pinecone, Weaviate, vLLM, Ollama。"
+      }
+    ],
+    "concentrations": [],
+    "distribution": {
+      "model_open": 6,
+      "model_closed": 9,
+      "app_office": 5,
+      "app_coding": 4,
+      "app_video": 3,
+      "app_design": 2,
+      "app_agent": 5,
+      "app_search": 3,
+      "infra_chip": 6,
+      "embodied_robot": 5,
+      "embodied_auto": 6,
+      "infra_cloud": 5,
+      "infra_framework": 3,
+      "model_eval": 3,
+      "infra_data": 3,
+      "ai_safety": 2,
+      "infra_tool": 3,
+      "app_audio": 3
+    },
+    "layerStats": {
+      "application": {
+        "total": 25,
+        "categories": 7,
+        "gapCount": 1
+      },
+      "model": {
+        "total": 18,
+        "categories": 3,
+        "gapCount": 0
+      },
+      "infrastructure": {
+        "total": 22,
+        "categories": 6,
+        "gapCount": 3
+      },
+      "embodied": {
+        "total": 11,
+        "categories": 2,
+        "gapCount": 0
+      }
+    },
+    "totalProjects": 76
+  },
+  "summary": {
+    "githubAnomalyCount": 0,
+    "stockAnomalyCount": 4,
+    "totalAnomalies": 4,
+    "gapCount": 4
+  }
+}

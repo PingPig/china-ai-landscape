@@ -1,0 +1,81 @@
+{
+  "snapshots": [
+    {
+      "date": "2026-03-16",
+      "data": {
+        "deepseek": {
+          "stars": 102165,
+          "forks": 16571,
+          "openIssues": 110,
+          "watchers": 761,
+          "weeklyCommitsAvg": null
+        },
+        "qwen": {
+          "stars": 20729,
+          "forks": 1746,
+          "openIssues": 35,
+          "watchers": 147,
+          "weeklyCommitsAvg": null
+        },
+        "dify": {
+          "stars": 132982,
+          "forks": 20715,
+          "openIssues": 781,
+          "watchers": 773,
+          "weeklyCommitsAvg": null
+        },
+        "colossalai": {
+          "stars": 41362,
+          "forks": 4526,
+          "openIssues": 492,
+          "watchers": 381,
+          "weeklyCommitsAvg": null
+        },
+        "paddlepaddle": {
+          "stars": 23757,
+          "forks": 5975,
+          "openIssues": 1599,
+          "watchers": 711,
+          "weeklyCommitsAvg": 39
+        },
+        "minicpm": {
+          "stars": 8713,
+          "forks": 551,
+          "openIssues": 14,
+          "watchers": 76,
+          "weeklyCommitsAvg": null
+        },
+        "yi": {
+          "stars": 7842,
+          "forks": 487,
+          "openIssues": 19,
+          "watchers": 110,
+          "weeklyCommitsAvg": null
+        },
+        "internlm": {
+          "stars": 7166,
+          "forks": 510,
+          "openIssues": 8,
+          "watchers": 57,
+          "weeklyCommitsAvg": null
+        },
+        "mindspore": {
+          "stars": 4679,
+          "forks": 755,
+          "openIssues": 211,
+          "watchers": 149,
+          "weeklyCommitsAvg": 0
+        },
+        "baichuan": {
+          "stars": 4116,
+          "forks": 292,
+          "openIssues": 271,
+          "watchers": 38,
+          "weeklyCommitsAvg": null
+        }
+      }
+    }
+  ],
+  "lastUpdated": "2026-03-16",
+  "anomalies": []
+}

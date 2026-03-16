@@ -1,0 +1,210 @@
+[
+  {
+    "date": "2023-03-16",
+    "quarter": "2023Q1",
+    "title": "百度文心一言发布",
+    "description": "百度率先发布文心一言，成为国内最早的大模型对话产品之一",
+    "relatedProjects": ["wenxin"],
+    "impact": "high"
+  },
+  {
+    "date": "2023-04-11",
+    "quarter": "2023Q2",
+    "title": "通义千问发布",
+    "description": "阿里云发布通义千问大模型，开启阿里AI战略",
+    "relatedProjects": ["qwen", "tongyi"],
+    "impact": "high"
+  },
+  {
+    "date": "2023-06-15",
+    "quarter": "2023Q2",
+    "title": "百川智能成立",
+    "description": "前搜狗CEO王小川创立百川智能，获大量融资",
+    "relatedProjects": ["baichuan"],
+    "impact": "medium"
+  },
+  {
+    "date": "2023-08-22",
+    "quarter": "2023Q3",
+    "title": "国内大模型集中获批上线",
+    "description": "首批大模型通过备案，向公众开放使用",
+    "relatedProjects": ["wenxin", "zhipu", "baichuan"],
+    "impact": "high"
+  },
+  {
+    "date": "2023-10-20",
+    "quarter": "2023Q4",
+    "title": "智谱发布GLM-4",
+    "description": "智谱AI发布GLM-4，对标GPT-4性能",
+    "relatedProjects": ["zhipu"],
+    "impact": "medium"
+  },
+  {
+    "date": "2023-11-06",
+    "quarter": "2023Q4",
+    "title": "通义千问开源Qwen-72B",
+    "description": "阿里开源720亿参数大模型，推动国内开源生态",
+    "relatedProjects": ["qwen"],
+    "impact": "high"
+  },
+  {
+    "date": "2024-01-15",
+    "quarter": "2024Q1",
+    "title": "Kimi Chat爆火出圈",
+    "description": "月之暗面Kimi凭借超长上下文能力在C端爆发增长",
+    "relatedProjects": ["moonshot"],
+    "impact": "high"
+  },
+  {
+    "date": "2024-03-10",
+    "quarter": "2024Q1",
+    "title": "DeepSeek-V2发布",
+    "description": "DeepSeek发布MoE架构模型，以极低成本达到领先性能",
+    "relatedProjects": ["deepseek"],
+    "impact": "high"
+  },
+  {
+    "date": "2024-06-06",
+    "quarter": "2024Q2",
+    "title": "可灵AI发布",
+    "description": "快手发布可灵AI视频生成模型，效果惊艳全球",
+    "relatedProjects": ["kling"],
+    "impact": "high"
+  },
+  {
+    "date": "2024-07-15",
+    "quarter": "2024Q3",
+    "title": "豆包DAU破千万",
+    "description": "字节跳动豆包日活用户突破千万，成为国内最大AI应用",
+    "relatedProjects": ["doubao"],
+    "impact": "high"
+  },
+  {
+    "date": "2024-08-20",
+    "quarter": "2024Q3",
+    "title": "昇腾910C量产",
+    "description": "华为昇腾910C开始规模供货，缓解国产算力瓶颈",
+    "relatedProjects": ["huawei_ascend"],
+    "impact": "high"
+  },
+  {
+    "date": "2024-09-19",
+    "quarter": "2024Q3",
+    "title": "Qwen2.5系列开源",
+    "description": "阿里开源Qwen2.5全系列模型，涵盖0.5B到72B",
+    "relatedProjects": ["qwen"],
+    "impact": "high"
+  },
+  {
+    "date": "2024-11-15",
+    "quarter": "2024Q4",
+    "title": "小马智行美股上市",
+    "description": "自动驾驶公司小马智行在纳斯达克上市",
+    "relatedProjects": ["pony"],
+    "impact": "medium"
+  },
+  {
+    "date": "2024-12-26",
+    "quarter": "2024Q4",
+    "title": "DeepSeek-V3发布",
+    "description": "DeepSeek发布V3，671B参数MoE模型，训练成本仅557万美元",
+    "relatedProjects": ["deepseek"],
+    "impact": "high"
+  },
+  {
+    "date": "2025-01-20",
+    "quarter": "2025Q1",
+    "title": "DeepSeek-R1开源发布",
+    "description": "推理模型R1开源，引发全球AI界震动，美股科技股大跌",
+    "relatedProjects": ["deepseek"],
+    "impact": "high"
+  },
+  {
+    "date": "2025-02-28",
+    "quarter": "2025Q1",
+    "title": "宇树机器人春晚亮相",
+    "description": "宇树科技机器人登上央视春晚舞台，引发全民关注",
+    "relatedProjects": ["unitree"],
+    "impact": "high"
+  },
+  {
+    "date": "2025-03-06",
+    "quarter": "2025Q1",
+    "title": "Manus AI Agent发布",
+    "description": "通用AI Agent产品Manus发布，展示自主完成复杂任务能力",
+    "relatedProjects": ["manus"],
+    "impact": "high"
+  },
+  {
+    "date": "2025-04-20",
+    "quarter": "2025Q2",
+    "title": "扣子Coze商业化加速",
+    "description": "字节扣子平台累计创建Bot超百万，AI Agent平台生态初成",
+    "relatedProjects": ["coze"],
+    "impact": "medium"
+  },
+  {
+    "date": "2025-05-15",
+    "quarter": "2025Q2",
+    "title": "中国AI加速追赶",
+    "description": "多家中国AI公司发布对标GPT-4o水平模型，差距显著缩小",
+    "relatedProjects": ["qwen", "zhipu", "moonshot"],
+    "impact": "medium"
+  },
+  {
+    "date": "2025-06-10",
+    "quarter": "2025Q2",
+    "title": "萝卜快跑扩城运营",
+    "description": "百度萝卜快跑在武汉实现全无人驾驶常态化运营，订单量大增",
+    "relatedProjects": ["apollo"],
+    "impact": "medium"
+  },
+  {
+    "date": "2025-07-20",
+    "quarter": "2025Q3",
+    "title": "讯飞星火4.0发布",
+    "description": "科大讯飞发布星火大模型4.0，在教育和医疗领域深度应用",
+    "relatedProjects": ["iflytek"],
+    "impact": "medium"
+  },
+  {
+    "date": "2025-09-10",
+    "quarter": "2025Q3",
+    "title": "AI应用落地元年",
+    "description": "AI编程、AI视频、AI办公等赛道进入规模化商用阶段",
+    "relatedProjects": ["doubao", "kling", "cursor_cn"],
+    "impact": "medium"
+  },
+  {
+    "date": "2025-10-15",
+    "quarter": "2025Q4",
+    "title": "地平线征程6量产",
+    "description": "地平线征程6芯片大规模量产上车，国产自动驾驶算力突破",
+    "relatedProjects": ["horizon"],
+    "impact": "medium"
+  },
+  {
+    "date": "2025-11-20",
+    "quarter": "2025Q4",
+    "title": "阿里云百炼平台升级",
+    "description": "阿里云百炼大模型服务平台用户突破百万，成为国内最大AI开发平台",
+    "relatedProjects": ["aliyun_pai", "qwen"],
+    "impact": "medium"
+  },
+  {
+    "date": "2026-01-15",
+    "quarter": "2026Q1",
+    "title": "2026中国AI生态格局初定",
+    "description": "经过3年发展，中国AI形成模型层、应用层、基础设施层完整生态",
+    "relatedProjects": ["deepseek", "qwen", "doubao", "huawei_ascend"],
+    "impact": "high"
+  },
+  {
+    "date": "2026-02-10",
+    "quarter": "2026Q1",
+    "title": "具身智能进入商用元年",
+    "description": "多家人形机器人公司开始小批量商用交付，工厂场景率先落地",
+    "relatedProjects": ["unitree"],
+    "impact": "medium"
+  }
+]
